@@ -1,0 +1,12 @@
+{
+  "permit_id": "BLDC-2026-00012",
+  "business_name": "Suteki BBQ Steakhouse",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Retail — Restaurant/Bar",
+  "confidence": "medium",
+  "source_url": "https://www.yelp.com/biz/oma-sushi-sugar-land",
+  "notes": "Permit description explicitly names 'SUTEKI BBQ STEAKHOUSE' as the new tenant remodeling at 15830 Southwest Fwy, Sugar Land; prior match 'Oma Sushi LLC' confirmed active at address per Yelp (March 2026), suggesting tenant transition or adjacent unit. No phone found for Suteki.",
+  "ts": "2026-04-13T02:45:33Z"
+}
