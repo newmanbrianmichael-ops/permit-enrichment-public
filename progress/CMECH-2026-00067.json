@@ -1,0 +1,12 @@
+{
+  "permit_id": "CMECH-2026-00067",
+  "business_name": "Texas Instruments Incorporated",
+  "dba": "TI",
+  "phone": "",
+  "website": "ti.com",
+  "industry_guess": "Office",
+  "confidence": "high",
+  "source_url": "https://www.manta.com/c/mm75gf9/texas-instruments-incorporated",
+  "notes": "Permit description explicitly names 'TEXAS INSTRUMENTS - INTERIOR OFFICE REMODEL FOR TEXAS INSTRUMENTS' at 13131 Dairy Ashford, Sugar Land TX 77478. Manta and D&B both list Texas Instruments at a Sugar Land TX 77498 address consistent with this corridor. High confidence due to direct name in permit description.",
+  "ts": "2026-04-13T01:55:22.310701+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00346",
+  "business_name": "Legacy Medical Sol LLC",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Medical / Clinical",
+  "confidence": "medium",
+  "source_url": "https://www.hipaaspace.com/medical_billing/coding/national_provider_identifier/codes/npi_1114891389.aspx",
+  "notes": "NPI registry confirms LEGACY MEDICAL SOL is located at 17101 W Grand Pkwy S Ste 103, Sugar Land, TX 77479, matching the permit address. No phone or website surfaced in results; the permit description names the entity directly.",
+  "ts": "2026-04-13T01:55:22.310701+00:00"
+}

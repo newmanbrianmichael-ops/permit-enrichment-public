@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00486",
+  "business_name": "",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Other",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "1149 Sugar Creek, Sugar Land TX 77478 returned no specific business results. Permit description references an 'occupied home' and TCI release, strongly suggesting this is a residential address. Industry_hint of Medical/Clinical does not align with permit language.",
+  "ts": "2026-04-13T01:55:22.310701+00:00"
+}

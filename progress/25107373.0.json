@@ -1,0 +1,12 @@
+{
+  "permit_id": "25107373.0",
+  "business_name": "The Pet Barber Houston",
+  "dba": "",
+  "phone": "",
+  "website": "thepetbarberhouston.com",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://thepetbarberhouston.com/",
+  "notes": "Search returned 'The Pet Barber Houston' as a named business exactly matching 'PET BARBER' in the permit description, with a website for the Houston location. The address on their site was not confirmed as 2909 Fountain View Dr vs. the nearby A Dog's Dream at 2910, so confidence is medium.",
+  "ts": "2026-04-13T01:55:22.310701+00:00"
+}

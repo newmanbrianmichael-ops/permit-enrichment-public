@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00392",
+  "business_name": "Memorial Hermann Sugar Land Hospital",
+  "dba": "",
+  "phone": "(281) 725-5000",
+  "website": "memorialhermann.org",
+  "industry_guess": "Medical / Clinical",
+  "confidence": "high",
+  "source_url": "https://www.yelp.com/biz/memorial-hermann-sugar-land-hospital-sugar-land",
+  "notes": "Same campus as permit CMECH-2026-00033 \u2014 Memorial Hermann Sugar Land Hospital at 17500 W Grand Pkwy S. The permit describes MRI equipment exchange on the first floor, consistent with the hospital's imaging operations.",
+  "ts": "2026-04-13T01:55:22.310701+00:00"
+}

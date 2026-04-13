@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00416",
+  "business_name": "City of Sugar Land Fire Station #5",
+  "dba": "",
+  "phone": "(281) 275-2368",
+  "website": "sugarlandtx.gov",
+  "industry_guess": "Government / Civic",
+  "confidence": "high",
+  "source_url": "https://www.sugarlandtx.gov/facilities/facility/details/Fire-Station-5-58",
+  "notes": "The permit description explicitly names City of Sugar Land Fire Station; confirmed as Fire Station #5 at 5735 Commonwealth Blvd via city website and multiple directories. This is a municipal facility, not a cleaning prospect.",
+  "ts": "2026-04-13T01:55:22.310701+00:00"
+}
