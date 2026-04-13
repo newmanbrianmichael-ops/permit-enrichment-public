@@ -1,0 +1,12 @@
+{
+  "permit_id": "26006405.0",
+  "business_name": "MKZ Ventures LLC",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Warehouse / Industrial",
+  "confidence": "low",
+  "source_url": "https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=4315101",
+  "notes": "Prior TABC stem-match at 1615 South Loop West Bld C is MKZ Ventures LLC (USDOT 4315101), a trucking/freight carrier based in Pearland TX; converting to office/warehouse consistent with logistics use; landlord vs. tenant relationship not confirmed.",
+  "ts": "2026-04-13T04:00:00Z"
+}

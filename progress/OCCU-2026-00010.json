@@ -1,0 +1,12 @@
+{
+  "permit_id": "OCCU-2026-00010",
+  "business_name": "Sweetwater Acupuncture Inc.",
+  "dba": "",
+  "phone": "(832) 999-4645",
+  "website": "https://www.sweetwateracupuncture.com",
+  "industry_guess": "Medical / Clinical",
+  "confidence": "high",
+  "source_url": "https://www.sweetwateracupuncture.com/",
+  "notes": "Permit description explicitly names tenant as Sweetwater Acupuncture Inc. at 7102 Tarrington; owner/landlord is Wealthy Penguin Inc.; web search confirms Sweetwater Acupuncture operates in Sugar Land TX with phone (832) 999-4645.",
+  "ts": "2026-04-13T04:00:00Z"
+}
