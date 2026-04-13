@@ -1,0 +1,12 @@
+{
+  "permit_id": "nan",
+  "business_name": "",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Remaining SugarLand queue entries have permit_id='nan' and all address/city/zip/description fields are blank; no searchable data available.",
+  "ts": "2026-04-13T14:05:00Z"
+}
