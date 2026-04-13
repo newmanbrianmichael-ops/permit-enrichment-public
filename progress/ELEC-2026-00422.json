@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00422",
+  "business_name": "Sugar Creek Country Club",
+  "dba": "",
+  "phone": "(281) 494-9131",
+  "website": "https://www.thesugarcreek.com",
+  "industry_guess": "Other",
+  "confidence": "low",
+  "source_url": "https://www.yelp.com/biz/sugar-creek-country-club-sugar-land",
+  "notes": "420 Sugar Creek Blvd is Sugar Creek Country Club (private golf/country club). '420 1/2' may indicate a secondary or accessory structure on the club grounds. Electrical meter/panel install consistent with outbuilding. Low confidence due to half-address ambiguity \u2014 could be an unrelated neighboring property. Phone and website are for the main club.",
+  "ts": "2026-04-13T03:50:28.802204+00:00"
+}

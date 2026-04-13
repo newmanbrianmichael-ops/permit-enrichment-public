@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00458",
+  "business_name": "Walmart Supercenter",
+  "dba": "",
+  "phone": "(281) 340-0900",
+  "website": "https://www.walmart.com/store/2993-sugar-land-tx",
+  "industry_guess": "Retail",
+  "confidence": "high",
+  "source_url": "https://www.yelp.com/biz/walmart-supercenter-sugar-land",
+  "notes": "Multiple sources confirm Walmart Supercenter Store #2993 at 345 Highway 6, Sugar Land, TX 77478. Interior electrical upgrade (panel replacement, feeder repull) consistent with large retail facility maintenance.",
+  "ts": "2026-04-13T03:50:28.802204+00:00"
+}

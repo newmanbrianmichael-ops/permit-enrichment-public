@@ -1,0 +1,12 @@
+{
+  "permit_id": "BLDC-2026-00021",
+  "business_name": "Dollar Tree",
+  "dba": "",
+  "phone": "",
+  "website": "https://www.dollartree.com/",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://locations.dollartree.com/tx/sugar-land",
+  "notes": "Permit description explicitly names 'DOLLAR TREE - INTERIOR FINISHES AND FIXTURES, REPLACE STOREFRONT DOORS, NEW LIGHTS' at 13505 University Blvd, Sugar Land TX 77479. Dollar Tree confirmed operating in Sugar Land 77479. Specific store phone at this address not returned in search results (other Sugar Land locations returned: 832-500-2388 at 16750 SW Fwy).",
+  "ts": "2026-04-13T03:50:28.802204+00:00"
+}

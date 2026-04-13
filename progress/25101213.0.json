@@ -1,0 +1,12 @@
+{
+  "permit_id": "25101213.0",
+  "business_name": "Two Allen Center",
+  "dba": "",
+  "phone": "",
+  "website": "https://www.cbre.com/properties/properties-for-lease/office/details/US-SMPL-72006/two-allen-center-1200-smith-street-houston-tx-77002",
+  "industry_guess": "Office",
+  "confidence": "medium",
+  "source_url": "https://property.compstak.com/1200-Smith-Street-Houston/p/34710",
+  "notes": "1200 Smith St, Houston TX 77002 is Two Allen Center (formerly Citicorp Building), a Class A Downtown Houston high-rise built 1977. Suite 1950 tenant not identified from search. Prior_match 'SP PLUS LLC' is a parking operator \u2014 likely not the office suite tenant. Permit is a 16,013 SF hi-rise office expansion/remodel.",
+  "ts": "2026-04-13T03:50:28.802204+00:00"
+}

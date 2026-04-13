@@ -1,0 +1,12 @@
+{
+  "permit_id": "CMECH-2026-00063",
+  "business_name": "First Colony Mall",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://www.loopnet.com/Listing/16535-Southwest-Fwy-Sugar-Land-TX/38862975/",
+  "notes": "Same address as ELEC-2026-00465; 16535 Southwest Fwy is First Colony Mall. HVAC install suggests a tenant buildout. Specific tenant not confirmed; prior_match list shows multiple retail tenants. Marked Retail at mall level.",
+  "ts": "2026-04-13T03:50:28.802204+00:00"
+}

@@ -1,0 +1,12 @@
+{
+  "permit_id": "BLDC-2026-00038",
+  "business_name": "JAM Data Center LLC",
+  "dba": "Bitties LLC",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Warehouse / Industrial",
+  "confidence": "medium",
+  "source_url": "https://www.colliers.com/en/properties/sold-data-center-emergency-operations-data-backup-facility/usa-12626a-dairy-ashford-sugar-land-tx-77478/usa1028467",
+  "notes": "Permit description explicitly names JAM Data Center LLC (aka Bitties LLC) as the operator. Building at 12626A Dairy Ashford, Sugar Land TX 77478 is a known data center / emergency operations facility sold by Colliers. No phone or website found for JAM Data Center LLC. Prior TABC match (Eighty-Two Beverages) appears unrelated to current data center use.",
+  "ts": "2026-04-13T03:50:28.802204+00:00"
+}

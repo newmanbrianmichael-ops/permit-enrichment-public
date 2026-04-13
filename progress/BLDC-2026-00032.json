@@ -1,0 +1,12 @@
+{
+  "permit_id": "BLDC-2026-00032",
+  "business_name": "Big Basket IGA",
+  "dba": "Big Basket Grocery",
+  "phone": "",
+  "website": "https://www.bigbasketiga.com/",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://www.bigbasketiga.com/",
+  "notes": "Permit description explicitly names 'BIG BASKET GROCERY' at 16100 Southwest Fwy, Sugar Land TX 77479. Big Basket IGA website found in search results. Permit work includes demo of false ceiling, interior walls, and lighting \u2014 likely a store remodel/buildout. No phone number returned in search results.",
+  "ts": "2026-04-13T03:50:28.802204+00:00"
+}
