@@ -1,0 +1,12 @@
+{
+  "permit_id": "CMECH-2026-00068",
+  "business_name": "Texas Instruments Incorporated",
+  "dba": "",
+  "phone": "",
+  "website": "https://www.ti.com",
+  "industry_guess": "Office",
+  "confidence": "medium",
+  "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2023010204",
+  "notes": "Permit description explicitly names Texas Instruments as the tenant for an interior office remodel at 13131 Dairy Ashford, Sugar Land; search results confirm the address is a multi-tenant office building but did not surface a current TI listing there.",
+  "ts": "2026-04-20T00:00:00Z"
+}
