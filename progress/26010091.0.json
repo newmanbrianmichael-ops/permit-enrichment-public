@@ -1,12 +1,12 @@
 {
   "permit_id": "26010091.0",
-  "business_name": "Maven @ Post Oak",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.3040postoak.com/",
+  "website": "",
   "industry_guess": "Office",
   "confidence": "low",
-  "source_url": "https://www.bizapedia.com/tx/maven-post-oak-llc.html",
-  "notes": "3040 Post Oak Blvd is a Class A office tower in Houston Galleria submarket. MAVEN @ POST OAK LLC found via Bizapedia; likely an office suite operator or co-working concept. MJ & CO JEWELERS LLC also listed as prior match (Comptroller exact) but no direct evidence of jeweler at suite 2000 (20th floor). No phone found for Maven entity. Both tenants noted from prior_match.",
-  "ts": "2026-04-20T22:00:00Z"
+  "source_url": "https://www.3040postoak.com/contact",
+  "notes": "3040 Post Oak is a Class A Galleria-area office tower. Prior Comptroller match lists Maven @ Post Oak LLC and MJ & Co Jewelers LLC at suite 2000; current tenant not confirmed via search.",
+  "ts": "2026-04-21T03:17:51Z"
 }
