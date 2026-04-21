@@ -1,0 +1,12 @@
+{
+  "permit_id": "OCCU-2026-00014",
+  "business_name": "Trader Joe's",
+  "dba": "Trader Joe's East Inc.",
+  "phone": "(281) 805-3021",
+  "website": "https://www.traderjoes.com",
+  "industry_guess": "Retail",
+  "confidence": "high",
+  "source_url": "https://locations.traderjoes.com/tx/sugar-land/430/",
+  "notes": "Trader Joe's confirmed at 13550 University Blvd, Sugar Land TX 77479; permit notes electricity transfer from former tenant Sprouts to new owner; Trader Joe's is current occupant.",
+  "ts": "2026-04-21T00:05:00Z"
+}
