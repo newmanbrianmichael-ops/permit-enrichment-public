@@ -1,0 +1,12 @@
+{
+  "permit_id": "OCCU-2026-00011",
+  "business_name": "MOD Pizza",
+  "dba": "MOD Super Fast Pizza LLC",
+  "phone": "(346) 279-0093",
+  "website": "https://locations.modpizza.com/usa/tx/sugar-land/2735-town-center-blvd",
+  "industry_guess": "Retail \u2014 Restaurant/Bar",
+  "confidence": "high",
+  "source_url": "https://locations.modpizza.com/usa/tx/sugar-land/2735-town-center-blvd",
+  "notes": "MOD Pizza confirmed at 2735 Town Center Blvd N Ste A. Prior Comptroller/TABC stem match MOD SUPER FAST PIZZA LLC confirmed.",
+  "ts": "2026-04-21T10:15:58.368516+00:00"
+}
