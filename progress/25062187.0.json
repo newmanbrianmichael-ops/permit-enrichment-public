@@ -1,0 +1,12 @@
+{
+  "permit_id": "25062187.0",
+  "business_name": "CAINIAO SUPPLY CHAIN US INC",
+  "dba": "",
+  "phone": "",
+  "website": "https://www.cainiao.com",
+  "industry_guess": "Warehouse / Industrial",
+  "confidence": "high",
+  "source_url": "https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=MC_MX&query_string=1492523",
+  "notes": "Prior match confirmed via TX Comptroller; Cainiao Supply Chain US Inc is a logistics/warehousing arm of Alibaba Group operating at 5880 W Fuqua St, Houston, TX.",
+  "ts": "2026-04-21T13:08:47Z"
+}
