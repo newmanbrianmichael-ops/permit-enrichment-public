@@ -1,0 +1,12 @@
+{
+  "permit_id": "sl-BLDC-2026-00081",
+  "business_name": "Shell",
+  "dba": "Shell Recharge",
+  "phone": "(281) 565-3889",
+  "website": "https://find.shell.com/us/fuel/10083905-13435-university-blvd/en_US",
+  "industry_guess": "Automotive",
+  "confidence": "high",
+  "source_url": "https://find.shell.com/us/fuel/10083905-13435-university-blvd/en_US",
+  "notes": "Shell gas station at 13435 University Blvd, Sugar Land, TX 77479. Confirmed by Shell's own station locator, Yelp, and GasBuddy. Permit is for Shell Recharge EV charging station installation. Phone (281) 565-3889.",
+  "ts": "2026-04-22T00:00:00Z"
+}

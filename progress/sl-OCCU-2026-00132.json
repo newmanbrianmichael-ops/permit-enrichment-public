@@ -1,0 +1,12 @@
+{
+  "permit_id": "sl-OCCU-2026-00132",
+  "business_name": "Classic Lighting",
+  "dba": "",
+  "phone": "(281) 494-0300",
+  "website": "",
+  "industry_guess": "Retail",
+  "confidence": "low",
+  "source_url": "https://www.yelp.com/biz/classic-lighting-sugar-land",
+  "notes": "Search for 140 Industrial Blvd, Sugar Land, TX 77478 returned multiple tenants: Classic Lighting (281-494-0300), Signature Office Furniture (888-708-9394), and T4 Spa Concepts. Permit is a change of ownership (47,291 sqft). Cannot determine which business is the new owner/tenant. Classic Lighting listed first from Yelp results. Confidence low due to multiple tenants and change-of-ownership context.",
+  "ts": "2026-04-22T00:00:00Z"
+}
