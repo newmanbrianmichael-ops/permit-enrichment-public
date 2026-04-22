@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00120",
+  "business_name": "Memorial Hermann Sugar Land",
+  "dba": "",
+  "phone": "(346) 843-6470",
+  "website": "https://memorialhermann.org/locations/cmhp-sugar-land-pediatrics",
+  "industry_guess": "Medical / Clinical",
+  "confidence": "high",
+  "source_url": "https://memorialhermann.org/services/specialties/mhmg/locations/sugar-land",
+  "notes": "Permit description explicitly names Memorial Hermann Sugar Land at 17402 W Grand Pkwy S. Multiple Memorial Hermann Medical Group clinics confirmed at this address, including pediatrics (Suite 300, (346) 843-6470) and cardiology (Suite 310). Permit covers electrical/data for a temporary mobile imaging trailer.",
+  "ts": "2026-04-22T00:00:00Z"
+}
