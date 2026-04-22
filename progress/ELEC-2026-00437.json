@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00437",
+  "business_name": "Dollar Tree",
+  "dba": "",
+  "phone": "",
+  "website": "https://www.dollartree.com",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://locations.dollartree.com/tx/sugar-land",
+  "notes": "Permit description explicitly names Dollar Tree; buildout for interior finishes and fixtures. Specific Sugar Land location at 13505 University not confirmed in Dollar Tree locator.",
+  "ts": "2026-04-22T03:22:18Z"
+}
