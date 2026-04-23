@@ -1,12 +1,12 @@
 {
   "permit_id": "{02AB5011-01FF-4818-87AB-4C5E1D085D06}",
-  "business_name": "",
+  "business_name": "The Stables on the Brazos",
   "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "The Stables on the Brazos (77441) is a proposed residential subdivision plat in Fort Bend County; no commercial tenant to identify.",
-  "ts": "2026-04-13T03:50:28.802204+00:00"
+  "phone": "281-640-2060",
+  "website": "https://thestablesonthebrazos.com/",
+  "industry_guess": "Other",
+  "confidence": "high",
+  "source_url": "https://thestablesonthebrazos.com/",
+  "notes": "Wedding and event venue at 2955 Bowser Rd, Fulshear TX 77441; all-inclusive luxury packages; 251-300 guest capacity; 5-star rated.",
+  "ts": "2026-04-23T12:00:00Z"
 }
