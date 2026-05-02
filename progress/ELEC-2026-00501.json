@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00501",
+  "business_name": "Russo's New York Pizzeria",
+  "dba": "Russo's NY Pizzeria & Italian Kitchen - Greatwood",
+  "phone": "(281) 565-8100",
+  "website": "https://www.nypizzeria.com/locations/sugar-land-greatwood",
+  "industry_guess": "Retail \u2014 Restaurant/Bar",
+  "confidence": "high",
+  "source_url": "https://www.yelp.com/biz/russos-new-york-pizzeria-sugar-land-5",
+  "notes": "Confirmed at 6560 Greatwood Pkwy Suite 900, Sugar Land TX 77479 via Yelp, official website, TripAdvisor, and Facebook. Prior_match GREATWOOD NEW YORK PIZZERIA LLC maps to this Russo's franchise. Multi-tenant center; El Vaquero and Wah Coffee also listed in prior_match.",
+  "ts": "2026-05-02T00:00:00Z"
+}
