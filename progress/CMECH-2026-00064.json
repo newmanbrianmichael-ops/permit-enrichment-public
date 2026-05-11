@@ -1,12 +1,12 @@
 {
   "permit_id": "CMECH-2026-00064",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "Other",
+  "business_name": null,
+  "dba": null,
+  "phone": null,
+  "website": null,
+  "industry_guess": "Gym / Fitness",
   "confidence": "low",
-  "source_url": "",
-  "notes": "Former retail space (Big Lots per Waze) at 3410 SH 6, Sugar Land being converted to indoor recreational park with kitchen, party rooms, and new mezzanine. Specific tenant/business name not found; may be pre-opening.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://www.urbanair.com/texas-sugar-land/",
+  "notes": "Permit at 3410 Hwy 6 S Sugar Land for indoor recreational park buildout; no specific business identified at this address; nearby trampoline parks: Altitude (713-234-7798) at 4550 Hwy 6 S and Urban Air (281-301-5112) at 9848 US 90 Alt",
+  "ts": "2026-05-11T22:30:00Z"
 }

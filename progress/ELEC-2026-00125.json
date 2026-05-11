@@ -1,12 +1,12 @@
 {
   "permit_id": "ELEC-2026-00125",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
+  "business_name": null,
+  "dba": null,
+  "phone": null,
+  "website": null,
+  "industry_guess": "Unknown",
   "confidence": "none",
-  "source_url": "",
-  "notes": "4450 Palm Royale Blvd is a residential luxury estate (7-bed/8.5-bath, ~14,600 SF sold Nov 2024 for ~$10.9M). Not a commercial property.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://www.har.com/homedetail/4450-palm-royale-blvd-sugar-land-tx-77479/2505661",
+  "notes": "4450 Palm Royale Blvd confirmed residential by HAR listing; bathroom remodel permit; no commercial tenant identified",
+  "ts": "2026-05-11T22:30:00Z"
 }

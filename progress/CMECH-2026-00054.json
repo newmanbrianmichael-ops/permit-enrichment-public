@@ -1,12 +1,12 @@
 {
   "permit_id": "CMECH-2026-00054",
   "business_name": "McDonald's",
-  "dba": "",
-  "phone": "",
-  "website": "https://www.mcdonalds.com",
-  "industry_guess": "Retail -- Restaurant/Bar",
+  "dba": null,
+  "phone": null,
+  "website": "https://www.mcdonalds.com/us/en-us/location/tx/sugar-land/3401-hwy-6/10487.html",
+  "industry_guess": "Retail — Restaurant/Bar",
   "confidence": "medium",
-  "source_url": "https://www.mcdonalds.com",
-  "notes": "New McDonald's restaurant with drive-thru under construction at 5882 New Territory Blvd, Sugar Land. Location not yet indexed in online directories as construction was active.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://www.mcdonalds.com/us/en-us/location/tx/sugar-land/3401-hwy-6/10487.html",
+  "notes": "Permit description names McDonald's at 5882 New Territory Blvd Sugar Land; no direct phone for this location found; nearest confirmed Sugar Land McDonald's at 3401 Hwy 6 and 1460 Hwy 6",
+  "ts": "2026-05-11T22:30:00Z"
 }

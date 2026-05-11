@@ -1,12 +1,12 @@
 {
   "permit_id": "RMECH-2026-00095",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
+  "business_name": null,
+  "dba": null,
+  "phone": null,
+  "website": null,
+  "industry_guess": "Unknown",
   "confidence": "none",
-  "source_url": "",
-  "notes": "2 Lawton Circle, Sugar Land TX 77479 is a residential address per HAR.com, Coldwell Banker, Remax. Permit for breakfast room addition and kitchen remodel; residential property.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://www.har.com/homedetail/2-lawton-cir-sugar-land-tx-77479/7994212",
+  "notes": "2 Lawton Cir confirmed residential by HAR listing; breakfast room remodel permit; no commercial tenant identified",
+  "ts": "2026-05-11T22:30:00Z"
 }

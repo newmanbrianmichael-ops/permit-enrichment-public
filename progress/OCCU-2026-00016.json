@@ -1,12 +1,12 @@
 {
   "permit_id": "OCCU-2026-00016",
-  "business_name": "Elase Med Spa",
-  "dba": "formerly Ideal Image Med Spa",
-  "phone": "832-990-9434",
-  "website": "https://elase.com/locations/texas/",
-  "industry_guess": "Retail",
+  "business_name": "ELASE LLC",
+  "dba": "Elase Med Spa",
+  "phone": "(832) 990-9434",
+  "website": "https://elase.com/locations/sugar-land/",
+  "industry_guess": "Medical / Clinical",
   "confidence": "high",
-  "source_url": "https://www.yelp.com/biz/elase-sugar-land",
-  "notes": "Occupancy change: Ideal Image Med Spa sold to Elase Med Spa. Same operations, name changed. Located near 2711 Town Center Blvd N in Sugar Land Town Square.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://elase.com/locations/sugar-land/",
+  "notes": "Elase Med Spa at Sugar Land Town Center; medical spa offering laser hair removal, Botox, skin treatments; address listed as 2715 Town Center Blvd N on Yelp; phone (832) 990-9434",
+  "ts": "2026-05-11T22:30:00Z"
 }

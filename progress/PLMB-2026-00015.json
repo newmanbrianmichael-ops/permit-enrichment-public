@@ -1,12 +1,12 @@
 {
   "permit_id": "PLMB-2026-00015",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
+  "business_name": null,
+  "dba": null,
+  "phone": null,
+  "website": null,
   "industry_guess": "Retail",
   "confidence": "low",
-  "source_url": "",
-  "notes": "Permit for interior fit-out and change of occupancy for an eyebrow threading salon at 19780 Southwest Fwy, Sugar Land. No specific salon identified at this address; several threading salons operate on Southwest Fwy in Sugar Land.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://www.yelp.com/biz/threading-brow-bar-sugar-land",
+  "notes": "Permit at 19780 SW Fwy Sugar Land for eyebrow threading salon; no exact business match at this address; area has Threading Brow Bar (832-457-9967) at 530 Hwy 6 and Brow & Beauty Salon at 16742 SW Fwy",
+  "ts": "2026-05-11T22:30:00Z"
 }

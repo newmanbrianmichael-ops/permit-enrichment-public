@@ -1,12 +1,12 @@
 {
   "permit_id": "BLDC-2026-00096",
-  "business_name": "Capital Internal Medicine Associates",
-  "dba": "Dr. Salman Aly MD",
-  "phone": "832-886-4994",
-  "website": "",
+  "business_name": null,
+  "dba": null,
+  "phone": null,
+  "website": null,
   "industry_guess": "Medical / Clinical",
   "confidence": "medium",
-  "source_url": "https://www.healthgrades.com/group-directory/tx-texas/sugar-land/capital-internal-medicine-associates-xb2bmp",
-  "notes": "1,642 SF doctor's office build-out for Dr. Salman Aly MD (Capital Med-Office Management LLC). 6903 Brisbane Ct Ste 100 also has Dr. Amy Gandhi MD and Allure Aesthetics.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://www.loopnet.com/Listing/6903-Brisbane-Ct-Sugar-Land-TX/13714807/",
+  "notes": "6903 Brisbane Ct is a Class B medical office building (2017); tenants include Capital Infectious Disease Associates (832-886-4994) and Allure Aesthetics (346-309-4955); specific tenant for 1642 SF build-out unclear",
+  "ts": "2026-05-11T22:30:00Z"
 }

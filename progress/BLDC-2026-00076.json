@@ -1,12 +1,12 @@
 {
   "permit_id": "BLDC-2026-00076",
-  "business_name": "Offices at Kensington",
-  "dba": "",
-  "phone": "",
-  "website": "",
+  "business_name": null,
+  "dba": null,
+  "phone": null,
+  "website": "https://transwestern.com/property/offices-at-kensington-phase-1",
   "industry_guess": "Office",
   "confidence": "medium",
   "source_url": "https://www.loopnet.com/Listing/1600-Highway-6-Sugar-Land-TX/32834982/",
-  "notes": "Two 4-story Class A office buildings at 1600 Hwy 6, Sugar Land. Interior office expansion permit. Managed by Moody Rambin. WFG National Title is one tenant (Ste 160).",
-  "ts": "2026-05-11T21:19:48Z"
+  "notes": "1600 Hwy 6 S is Offices at Kensington I, 4-story Class A multi-tenant office; tenants include Thayer CPAs (281-552-8430), WFG National Title, Entigrity Solutions; specific tenant for 2177 SF build-out unknown",
+  "ts": "2026-05-11T22:30:00Z"
 }

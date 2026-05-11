@@ -1,12 +1,12 @@
 {
   "permit_id": "ELEC-2026-00612",
   "business_name": "Walmart Pharmacy",
-  "dba": "Walmart Store #4466",
-  "phone": "832-935-6344",
+  "dba": null,
+  "phone": "(832) 935-6344",
   "website": "https://www.walmart.com/store/4466-sugar-land-tx/pharmacy",
   "industry_guess": "Retail",
   "confidence": "high",
-  "source_url": "https://www.walmart.com/store/4466-sugar-land-tx/pharmacy",
-  "notes": "Walmart Pharmacy at 13322 W Airport Blvd, Store #4466, Sugar Land TX 77478. Sign permit for pharmacy drive-thru wall sign.",
-  "ts": "2026-05-11T21:19:48Z"
+  "source_url": "https://www.yelp.com/biz/walmart-pharmacy-sugar-land-2",
+  "notes": "Walmart Pharmacy #4466 at 13322 W Airport Blvd Sugar Land; drive-thru pharmacy sign installation per permit; phone (832) 935-6344",
+  "ts": "2026-05-11T22:30:00Z"
 }

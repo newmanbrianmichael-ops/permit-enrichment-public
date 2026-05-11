@@ -1,12 +1,12 @@
 {
   "permit_id": "OCCU-2026-00086",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Search returned ABB Inc (engineering) at 1601 Industrial Blvd, Sugar Land. KATY SMART MOTORS LLC not confirmed at this address. May be new tenant establishing private office.",
-  "ts": "2026-05-11T21:19:48Z"
+  "business_name": "KATY SMART MOTORS LLC",
+  "dba": null,
+  "phone": null,
+  "website": null,
+  "industry_guess": "Automotive",
+  "confidence": "low",
+  "source_url": "https://smartmotorsonline.com/",
+  "notes": "KATY SMART MOTORS LLC listed in permit at 1601 Industrial Blvd Sugar Land; no verified phone or website found; likely used-car or auto-related dealership",
+  "ts": "2026-05-11T22:30:00Z"
 }

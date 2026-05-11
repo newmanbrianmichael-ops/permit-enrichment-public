@@ -1,12 +1,12 @@
 {
   "permit_id": "ELEC-2026-00265",
   "business_name": "Chef Sun's Noodle and Dumpling",
-  "dba": "",
-  "phone": "",
+  "dba": null,
+  "phone": null,
   "website": "https://www.chefsunusa.com/",
-  "industry_guess": "Retail -- Restaurant/Bar",
+  "industry_guess": "Retail — Restaurant/Bar",
   "confidence": "low",
   "source_url": "https://www.chefsunusa.com/",
-  "notes": "Repair work at what appears to be a Chef Sun's Noodle and Dumpling restaurant at 1531 SH 6. Chain has locations in Plano and McKinney TX; Sugar Land location may be new/not yet indexed.",
-  "ts": "2026-05-11T21:19:48Z"
+  "notes": "Permit description names Chef Sun's Noodle and Dumpling at 1531 Hwy 6 S Sugar Land; chain has verified locations in McKinney and Plano TX; no Sugar Land location confirmed; may be a planned new location",
+  "ts": "2026-05-11T22:30:00Z"
 }

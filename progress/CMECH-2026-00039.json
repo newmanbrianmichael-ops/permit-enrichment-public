@@ -1,12 +1,12 @@
 {
   "permit_id": "CMECH-2026-00039",
-  "business_name": "Singas Famous Pizza",
-  "dba": "",
-  "phone": "",
-  "website": "https://singaspizzas.com/sugar-land",
-  "industry_guess": "Retail -- Restaurant/Bar",
-  "confidence": "high",
-  "source_url": "https://singaspizzas.com/sugar-land",
-  "notes": "Singas Famous Pizza at 18802 University Blvd Suite 140, Sugar Land TX 77479. Mechanical vent hood replacement permit for existing restaurant space.",
-  "ts": "2026-05-11T21:19:48Z"
+  "business_name": "WEIM GROUP RIVERSTONE LLC",
+  "dba": "Singas Famous Pizza",
+  "phone": null,
+  "website": null,
+  "industry_guess": "Retail — Restaurant/Bar",
+  "confidence": "medium",
+  "source_url": "https://www.wulfe.com/riverstone-place",
+  "notes": "WEIM GROUP RIVERSTONE LLC at 18802 University Blvd in Riverstone Place retail center Sugar Land; permit description indicates Singas Famous Pizza buildout; Weim Group related entity operates sandwich franchise; no direct phone verified",
+  "ts": "2026-05-11T22:30:00Z"
 }
