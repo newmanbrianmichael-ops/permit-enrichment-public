@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
+  "industry_guess": "Unknown",
   "confidence": "none",
-  "source_url": "https://www.har.com/homedetail/4450-palm-royale-blvd-sugar-land-tx-77479/2505661",
-  "notes": "4450 Palm Royale Blvd is a private residential estate; permit is for residential plumbing (bath fixtures/bar sink), not a commercial tenant",
-  "ts": "2026-05-11T05:30:00Z"
+  "source_url": "",
+  "notes": "Same residential address as ELEC-2026-00125; plumbing for bar sink relocation in private home",
+  "ts": "2026-05-11T00:00:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "ELEC-2026-00612",
-  "business_name": "Walmart Neighborhood Market",
-  "dba": "",
-  "phone": "(832) 935-6344",
-  "website": "https://www.walmart.com/store/4466-sugar-land-tx",
+  "business_name": "Walmart Pharmacy",
+  "dba": "Walmart Neighborhood Market",
+  "phone": "832-935-6344",
+  "website": "https://www.walmart.com/store/4466-sugar-land-tx/pharmacy",
   "industry_guess": "Retail",
   "confidence": "high",
-  "source_url": "https://www.walmart.com/store/4466-sugar-land-tx",
-  "notes": "Walmart Neighborhood Market Store #4466; permit for pharmacy drive-thru sign installation",
-  "ts": "2026-05-11T05:30:00Z"
+  "source_url": "https://www.walmart.com/store/4466-sugar-land-tx/pharmacy",
+  "notes": "Walmart Neighborhood Market store #4466; pharmacy drive-thru sign permit",
+  "ts": "2026-05-11T00:00:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "PLMB-2026-00429",
-  "business_name": "Sneak-A-Pic Ultrasound and Spa",
-  "dba": "Sneak-A-Pic",
-  "phone": "(281) 809-7220",
-  "website": "https://sneakapic.com/",
+  "business_name": "Houston Center for Clinical Research",
+  "dba": "HCCR",
+  "phone": "832-929-6221",
+  "website": "https://www.houstonclinicalresearch.com",
   "industry_guess": "Medical / Clinical",
-  "confidence": "high",
-  "source_url": "https://sneakapic.com/",
-  "notes": "3D/4D ultrasound and spa at 7102 Tarrington Ave Suite 902 Sugar Land TX 77479; Farzan Ventures LLC is likely building owner per prior_match",
-  "ts": "2026-05-11T05:30:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.houstonclinicalresearch.com/contact-us",
+  "notes": "HCCR confirmed at 7102 Tarrington Ave Ste 603 Sugar Land TX 77479; prior match Farzan Ventures/Sneak-A-Pic may be different suite",
+  "ts": "2026-05-11T00:00:00Z"
 }

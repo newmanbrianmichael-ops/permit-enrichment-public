@@ -1,12 +1,12 @@
 {
   "permit_id": "BLDC-2026-00096",
-  "business_name": "Capital Med-Office Management LLC",
+  "business_name": "Capital Internal Medicine Associates",
   "dba": "",
-  "phone": "",
-  "website": "",
+  "phone": "832-886-4774",
+  "website": "https://cima-docs.com",
   "industry_guess": "Medical / Clinical",
-  "confidence": "medium",
-  "source_url": "https://www.loopnet.com/Listing/6903-Brisbane-Ct-Sugar-Land-TX/31940817/",
-  "notes": "8,313 SF Class B medical office at 6903 Brisbane Ct; permit applicant Capital Med-Office Management LLC / Salman Aly; confirmed medical tenants include Sarfraz Aly MD (Suite 100, 832-886-4994) and Allure Aesthetics (Suite 200)",
-  "ts": "2026-05-11T05:30:00Z"
+  "confidence": "high",
+  "source_url": "https://www.zocdoc.com/doctor/salman-aly-md-120623",
+  "notes": "Dr. Salman Aly and Dr. Sarfraz Aly; multi-specialty practice at 6903 Brisbane Ct #100 Sugar Land TX 77479",
+  "ts": "2026-05-11T00:00:00Z"
 }

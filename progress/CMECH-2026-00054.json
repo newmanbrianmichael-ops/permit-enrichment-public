@@ -3,10 +3,10 @@
   "business_name": "McDonald's",
   "dba": "",
   "phone": "",
-  "website": "https://www.mcdonalds.com/us/en-us/location/TX/SUGAR-LAND.html",
+  "website": "https://www.mcdonalds.com",
   "industry_guess": "Retail -- Restaurant/Bar",
   "confidence": "high",
-  "source_url": "https://www.mcdonalds.com/",
-  "notes": "New McDonald's construction with drive-thru at 5882 New Territory Blvd Sugar Land; new location not yet individually listed but confirmed in permit description",
-  "ts": "2026-05-11T05:30:00Z"
+  "source_url": "",
+  "notes": "New-construction McDonald's with drive-thru at 5882 New Territory Blvd Sugar Land TX; confirmed by permit description; not yet open",
+  "ts": "2026-05-11T00:00:00Z"
 }
