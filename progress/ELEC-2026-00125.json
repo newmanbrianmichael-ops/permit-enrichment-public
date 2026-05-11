@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Address is a single-family residential property (7-bed, 13,966 sqft home); no commercial tenant",
+  "industry_guess": "Other",
+  "confidence": "low",
+  "source_url": "https://www.har.com/homedetail/4450-palm-royale-blvd-sugar-land-tx-77479/2505661",
+  "notes": "Address appears to be a high-end private residence (7 bed/8.5 bath luxury home in Sweetwater community). Permit description references billiard room, sauna, wet bar -- all residential features. No commercial tenant identified.",
   "ts": "2026-05-11T00:00:00Z"
 }

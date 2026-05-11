@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Same residential address as ELEC-2026-00125; plumbing for bar sink relocation in private home",
+  "industry_guess": "Other",
+  "confidence": "low",
+  "source_url": "https://www.har.com/homedetail/4450-palm-royale-blvd-sugar-land-tx-77479/2505661",
+  "notes": "Same address as ELEC-2026-00125. Residential luxury home in Sweetwater Country Club community, Sugar Land TX 77479. No commercial tenant. Likely high-net-worth residential cleaning prospect rather than standard commercial account.",
   "ts": "2026-05-11T00:00:00Z"
 }

@@ -1,0 +1,12 @@
+{
+  "permit_id": "BLDC-2026-00077",
+  "business_name": "Offices at Kensington Phase 1",
+  "dba": "",
+  "phone": "",
+  "website": "https://transwestern.com/property/offices-at-kensington-phase-1",
+  "industry_guess": "Medical / Clinical",
+  "confidence": "medium",
+  "source_url": "https://www.loopnet.com/Listing/1600-Highway-6-Sugar-Land-TX/32834982/",
+  "notes": "Same building as BLDC-2026-00076. Permit explicitly states 'IIR - Interior Remodel - Medical Space' at 1394 sqft. Medical tenant identity not confirmed from search. Building is Offices at Kensington I & II, managed by Transwestern.",
+  "ts": "2026-05-11T00:00:00Z"
+}

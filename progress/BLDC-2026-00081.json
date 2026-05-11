@@ -1,0 +1,12 @@
+{
+  "permit_id": "BLDC-2026-00081",
+  "business_name": "Greenbriar Family Dental",
+  "dba": "",
+  "phone": "(713) 522-1110",
+  "website": "",
+  "industry_guess": "Medical / Clinical",
+  "confidence": "medium",
+  "source_url": "https://www.yelp.com/biz/greenbriar-family-dental-houston",
+  "notes": "4101 Greenbriar Dr, Houston TX 77098 is a multi-tenant dental office building. Multiple dental practices confirmed: Greenbriar Family Dental (Suite 315, 713-522-1110), Dental Illusions/Basil Moukarim DDS (Suite 220, 713-528-3362), Houstonian Dental (Suite 155, 713-523-9655). Specific tenant for this TI suite not confirmed.",
+  "ts": "2026-05-11T00:00:00Z"
+}
