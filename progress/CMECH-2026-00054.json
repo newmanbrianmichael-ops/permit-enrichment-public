@@ -5,8 +5,8 @@
   "phone": "",
   "website": "https://www.mcdonalds.com",
   "industry_guess": "Retail -- Restaurant/Bar",
-  "confidence": "high",
-  "source_url": "",
-  "notes": "New-construction McDonald's with drive-thru at 5882 New Territory Blvd Sugar Land TX; confirmed by permit description; not yet open",
-  "ts": "2026-05-11T00:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.mcdonalds.com",
+  "notes": "New McDonald's restaurant with drive-thru under construction at 5882 New Territory Blvd, Sugar Land. Location not yet indexed in online directories as construction was active.",
+  "ts": "2026-05-11T21:19:48Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "BLDC-2026-00096",
   "business_name": "Capital Internal Medicine Associates",
-  "dba": "",
-  "phone": "832-886-4774",
-  "website": "https://cima-docs.com",
+  "dba": "Dr. Salman Aly MD",
+  "phone": "832-886-4994",
+  "website": "",
   "industry_guess": "Medical / Clinical",
-  "confidence": "high",
-  "source_url": "https://www.zocdoc.com/doctor/salman-aly-md-120623",
-  "notes": "Dr. Salman Aly and Dr. Sarfraz Aly; multi-specialty practice at 6903 Brisbane Ct #100 Sugar Land TX 77479",
-  "ts": "2026-05-11T00:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.healthgrades.com/group-directory/tx-texas/sugar-land/capital-internal-medicine-associates-xb2bmp",
+  "notes": "1,642 SF doctor's office build-out for Dr. Salman Aly MD (Capital Med-Office Management LLC). 6903 Brisbane Ct Ste 100 also has Dr. Amy Gandhi MD and Allure Aesthetics.",
+  "ts": "2026-05-11T21:19:48Z"
 }

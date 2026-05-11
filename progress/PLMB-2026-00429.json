@@ -1,12 +1,12 @@
 {
   "permit_id": "PLMB-2026-00429",
-  "business_name": "Houston Center for Clinical Research",
-  "dba": "HCCR",
-  "phone": "832-929-6221",
-  "website": "https://www.houstonclinicalresearch.com",
-  "industry_guess": "Medical / Clinical",
-  "confidence": "medium",
-  "source_url": "https://www.houstonclinicalresearch.com/contact-us",
-  "notes": "HCCR confirmed at 7102 Tarrington Ave Ste 603 Sugar Land TX 77479; prior match Farzan Ventures/Sneak-A-Pic may be different suite",
-  "ts": "2026-05-11T00:00:00Z"
+  "business_name": "",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Office",
+  "confidence": "low",
+  "source_url": "https://rubiconrealty.com/property/tarrington-office-condominiums/",
+  "notes": "7102 Tarrington Ave is Tarrington Office Condominiums; multi-tenant building with medical (Houston Rheumatology, Hogan Spine) and professional offices. Prior match FARZAN VENTURES / SNEAK-A-PIC not confirmed at this address.",
+  "ts": "2026-05-11T21:19:48Z"
 }

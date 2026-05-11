@@ -1,12 +1,12 @@
 {
   "permit_id": "OCCU-2026-00016",
   "business_name": "Elase Med Spa",
-  "dba": "",
+  "dba": "formerly Ideal Image Med Spa",
   "phone": "832-990-9434",
-  "website": "https://elase.com/locations/sugar-land/",
-  "industry_guess": "Medical / Clinical",
+  "website": "https://elase.com/locations/texas/",
+  "industry_guess": "Retail",
   "confidence": "high",
-  "source_url": "https://elase.com/locations/sugar-land/",
-  "notes": "Former Ideal Image Med Spa location; now Elase Med Spa; address confirmed 2711 Town Center Blvd N Sugar Land TX 77479",
-  "ts": "2026-05-11T00:00:00Z"
+  "source_url": "https://www.yelp.com/biz/elase-sugar-land",
+  "notes": "Occupancy change: Ideal Image Med Spa sold to Elase Med Spa. Same operations, name changed. Located near 2711 Town Center Blvd N in Sugar Land Town Square.",
+  "ts": "2026-05-11T21:19:48Z"
 }
