@@ -1,12 +1,12 @@
 {
   "permit_id": "25083480.0",
-  "business_name": "Southwest Business Center",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "transwestern.com",
+  "website": "",
   "industry_guess": "Warehouse / Industrial",
-  "confidence": "medium",
-  "source_url": "https://transwestern.com/property/southwest-business-center-01",
-  "notes": "10925 Kinghurst St is the Southwest Business Center, a multi-tenant flex/industrial campus managed by Transwestern. Suite D is a warehouse spec office buildout; specific incoming tenant for Suite D not identified, but Additech and Seascan Inc are known tenants at the complex.",
-  "ts": "2026-04-13T01:55:22.310701+00:00"
+  "confidence": "none",
+  "source_url": "https://www.commercialcafe.com/commercial-property/us/tx/houston/southwest-business-center/",
+  "notes": "Southwest Business Center flex-industrial park at 10925 Kinghurst Dr Suite D; 7,500 SF spec office buildout with no confirmed tenant. Complex managed by BKM Management.",
+  "ts": "2026-05-11T02:30:00Z"
 }

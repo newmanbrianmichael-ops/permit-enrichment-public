@@ -3,10 +3,10 @@
   "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "",
+  "website": "https://www.simon.com/mall/the-galleria",
   "industry_guess": "Retail",
   "confidence": "low",
-  "source_url": "https://www.yelp.com/biz/the-galleria-houston",
-  "notes": "5085 Westheimer Rd is The Galleria (Simon Property Group); unit B3511 specific tenant not identified in search. Prior matches include Nobu Houston, Wagyu House, Vuori, Casper Sleep and others — 5,729 SF retail buildout could be any of these or a new tenant.",
-  "ts": "2026-04-13T02:45:33Z"
+  "source_url": "https://www.simon.com/mall/the-galleria",
+  "notes": "The Galleria II at 5085 Westheimer Rd (Simon Property Group); Suite B3511 retail buildout. Prior matches include Casper, Nobu, Vuori, Wagyu House, and others - specific new tenant for this suite not identified.",
+  "ts": "2026-05-11T02:30:00Z"
 }
