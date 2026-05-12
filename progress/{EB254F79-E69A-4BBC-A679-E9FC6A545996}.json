@@ -1,12 +1,12 @@
 {
   "permit_id": "{EB254F79-E69A-4BBC-A679-E9FC6A545996}",
-  "business_name": "",
+  "business_name": "River Forest, Ltd.",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat; River Forest Ranch near Rosenberg TX 77471; likely residential; no commercial tenant identified.",
-  "ts": "2026-04-23T12:00:00Z"
+  "industry_guess": "Other",
+  "confidence": "low",
+  "source_url": "https://public.destinyhosted.com/rosendocs/2026/PLAN/20260121_1703/14321_1_-_PP_River_Forest_Ranch_-_11x17.pdf",
+  "notes": "RIVER FOREST RANCH is a proposed residential subdivision in Fort Bend County (zip 77471); Fort Bend County planning docs reference developer 'River Forest, Ltd. A Texas Limited Partnership'. Not a commercial cleaning prospect.",
+  "ts": "2026-05-12T15:30:00Z"
 }

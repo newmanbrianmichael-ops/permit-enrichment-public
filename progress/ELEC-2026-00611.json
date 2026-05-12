@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00611",
+  "business_name": "Walmart",
+  "dba": "Walmart Neighborhood Market",
+  "phone": "832-935-6345",
+  "website": "walmart.com",
+  "industry_guess": "Retail",
+  "confidence": "high",
+  "source_url": "https://www.walmart.com/store/4466-sugar-land-tx",
+  "notes": "13322 W Airport Blvd is Walmart Neighborhood Market Store #4466 in Sugar Land TX. Wall sign 'WALMART' on the building is the primary store identification sign.",
+  "ts": "2026-05-12T15:30:00Z"
+}

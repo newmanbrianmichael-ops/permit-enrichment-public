@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00602",
+  "business_name": "Walmart",
+  "dba": "Walmart Neighborhood Market",
+  "phone": "832-935-6345",
+  "website": "walmart.com",
+  "industry_guess": "Retail",
+  "confidence": "high",
+  "source_url": "https://www.yelp.com/biz/walmart-neighborhood-market-sugar-land-2",
+  "notes": "13322 W Airport Blvd is a Walmart Neighborhood Market (Store #4466). The 'PICK UP' sign on the south elevation refers to Walmart's grocery pickup service at this location.",
+  "ts": "2026-05-12T15:30:00Z"
+}
