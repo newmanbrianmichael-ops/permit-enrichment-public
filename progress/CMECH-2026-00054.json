@@ -1,0 +1,12 @@
+{
+  "permit_id": "CMECH-2026-00054",
+  "business_name": "McDonald's",
+  "dba": "",
+  "phone": "",
+  "website": "https://www.mcdonalds.com",
+  "industry_guess": "Retail — Restaurant/Bar",
+  "confidence": "medium",
+  "source_url": "https://www.mcdonalds.com/us/en-us/location/tx/sugar-land/",
+  "notes": "Business name from permit description. New construction McDonald's restaurant with drive-thru at 5882 New Territory Blvd; not yet listed in online directories.",
+  "ts": "2026-05-12T00:14:49Z"
+}

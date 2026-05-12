@@ -1,0 +1,12 @@
+{
+  "permit_id": "ELEC-2026-00612",
+  "business_name": "Walmart",
+  "dba": "Walmart Pharmacy",
+  "phone": "(832) 935-6344",
+  "website": "https://www.walmart.com/store/4466-sugar-land-tx",
+  "industry_guess": "Retail",
+  "confidence": "high",
+  "source_url": "https://www.walmart.com/store/4466-sugar-land-tx/pharmacy",
+  "notes": "Confirmed Walmart Neighborhood Market Store #4466 at 13322 W Airport Blvd with pharmacy drive-thru. Permit is for 'PHARMACY DRIVE THRU' wall sign installation.",
+  "ts": "2026-05-12T00:14:49Z"
+}
