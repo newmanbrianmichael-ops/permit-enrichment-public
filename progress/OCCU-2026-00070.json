@@ -1,12 +1,12 @@
 {
   "permit_id": "OCCU-2026-00070",
-  "business_name": "First Colony Mall",
+  "business_name": "The Cheesecake Factory",
   "dba": "",
-  "phone": "",
-  "website": "https://www.loopnet.com/Listing/16535-Southwest-Fwy-Sugar-Land-TX/4102564/",
-  "industry_guess": "Retail",
+  "phone": "281-313-9500",
+  "website": "https://locations.thecheesecakefactory.com/tx/sugar-land-64.html",
+  "industry_guess": "Retail — Restaurant/Bar",
   "confidence": "high",
-  "source_url": "https://www.loopnet.com/Listing/16535-Southwest-Fwy-Sugar-Land-TX/38862975/",
-  "notes": "16535 Southwest Fwy, Sugar Land TX 77479 is First Colony Mall, a major retail shopping center. Prior match list confirms multiple retail tenants (Claire's, Cheesecake Factory, Happinet, etc.).",
-  "ts": "2026-05-12T10:15:00Z"
+  "source_url": "https://www.yelp.com/biz/the-cheesecake-factory-sugar-land-9",
+  "notes": "Confirmed at 16535 SW Fwy (Southwest Freeway), Sugar Land TX 77479 in First Colony Mall. National restaurant chain, prior match confirmed.",
+  "ts": "2026-05-12T18:00:00Z"
 }

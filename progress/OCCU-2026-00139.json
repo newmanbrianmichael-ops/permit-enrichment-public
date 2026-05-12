@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "2645 Town Center Blvd N, Sugar Land 77479 is a commercial retail address in the Town Center district. Most recent tenant (Imperial Vapor Co.) closed March 2026; space is vacant and being prepped for a new tenant.",
-  "ts": "2026-05-12T10:15:00Z"
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "https://www.yelp.com/biz/imperial-vapor-co-sugar-land-sugar-land-4",
+  "notes": "2645 Town Center Blvd N was formerly Imperial Vapor Co. (closed March 2026). Permit is to turn on power in vacant space for leasing. No current tenant identified.",
+  "ts": "2026-05-12T18:00:00Z"
 }
