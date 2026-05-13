@@ -1,1 +1,12 @@
-{"permit_id":"{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}","business_name":"","dba":"","phone":"","website":"https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak","industry_guess":"Multifamily","confidence":"medium","source_url":"https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak","notes":"Second Circle Oak plat permit (77469) covering a different acreage parcel within the same Richmond TX mixed-use master plan. No specific tenant identified for this parcel.","ts":"2026-05-13T12:01:00Z"}
+{
+  "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
+  "business_name": "George Foundation",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
+  "notes": "Same address CIRCLE OAK 77469 as companion permit; Circle Oak II Apartments project (336 units) in Richmond TX; owner George Foundation. Confidence low due to duplicate address with no differentiating detail.",
+  "ts": "2026-05-13T00:00:00Z"
+}

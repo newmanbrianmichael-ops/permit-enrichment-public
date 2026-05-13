@@ -1,1 +1,12 @@
-{"permit_id":"{07F1F6D6-8F70-4368-A904-3890F76A10AB}","business_name":"","dba":"","phone":"","website":"","industry_guess":"Automotive","confidence":"low","source_url":"https://www.allstays.com/c/truck-stops-texas.htm","notes":"Mini Truck Stop (77461 Needville area) name clearly indicates a commercial truck stop or fuel/convenience development; no specific business name or phone found in public web records.","ts":"2026-05-13T12:13:00Z"}
+{
+  "permit_id": "{07F1F6D6-8F70-4368-A904-3890F76A10AB}",
+  "business_name": "",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Retail",
+  "confidence": "low",
+  "source_url": "",
+  "notes": "No specific business named Mini Truck Stop found in 77461 (Needville TX). Permit description may refer to a small fueling/convenience facility; no confirmed tenant or phone number found online.",
+  "ts": "2026-05-13T00:00:00Z"
+}

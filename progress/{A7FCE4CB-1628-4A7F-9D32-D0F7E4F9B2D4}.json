@@ -1,1 +1,12 @@
-{"permit_id":"{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}","business_name":"","dba":"","phone":"","website":"https://www.katyhomesforsaletx.com/tamarron-katy-tx","industry_guess":"Multifamily","confidence":"medium","source_url":"https://www.katyhomesforsaletx.com/tamarron-katy-tx","notes":"VIC at Tamarron West (77423) is associated with the Tamarron master-planned community in Fulshear TX, a large residential development with over 4,000 homes; no single commercial tenant identified.","ts":"2026-05-13T12:04:00Z"}
+{
+  "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
+  "business_name": "D.R. Horton",
+  "dba": "",
+  "phone": "",
+  "website": "https://www.drhorton.com",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
+  "notes": "Tamarron West is a 1300-acre residential development in Fort Bend County built by D.R. Horton; approximately 3800 lots planned. VIC AT TAMARRON WEST may denote a section or village within this master-planned community.",
+  "ts": "2026-05-13T00:00:00Z"
+}

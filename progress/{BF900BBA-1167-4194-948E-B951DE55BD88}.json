@@ -1,1 +1,12 @@
-{"permit_id":"{BF900BBA-1167-4194-948E-B951DE55BD88}","business_name":"","dba":"","phone":"","website":"","industry_guess":"Retail","confidence":"medium","source_url":"https://communityimpact.com/houston/katy-south-fulshear/government/2023/11/20/fulshear-to-see-commercial-utility-growth/","notes":"Fulshear Village Mart (77441) name suggests a commercial retail strip or marketplace in the rapidly growing Fulshear TX market; no specific tenant match found but the area has multiple active retail developments.","ts":"2026-05-13T12:10:00Z"}
+{
+  "permit_id": "{BF900BBA-1167-4194-948E-B951DE55BD88}",
+  "business_name": "",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Retail",
+  "confidence": "low",
+  "source_url": "",
+  "notes": "No specific tenant found for Fulshear Village Mart in 77441 (Fulshear TX). Name suggests a retail or mixed-use commercial center in the growing Fulshear area; no online listings found matching this exact name.",
+  "ts": "2026-05-13T00:00:00Z"
+}

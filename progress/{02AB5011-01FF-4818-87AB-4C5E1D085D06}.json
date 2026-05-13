@@ -1,1 +1,12 @@
-{"permit_id":"{02AB5011-01FF-4818-87AB-4C5E1D085D06}","business_name":"The Stables on the Brazos","dba":"","phone":"","website":"https://thestablesonthebrazos.com/","industry_guess":"Other","confidence":"high","source_url":"https://thestablesonthebrazos.com/","notes":"The Stables on the Brazos is an established wedding and event venue at 2955 Bowser Rd, Fulshear TX 77441; TDLR records show a $1.5M construction project completed 2025.","ts":"2026-05-13T12:05:00Z"}
+{
+  "permit_id": "{02AB5011-01FF-4818-87AB-4C5E1D085D06}",
+  "business_name": "The Stables on the Brazos",
+  "dba": "",
+  "phone": "",
+  "website": "https://thestablesonthebrazos.com/",
+  "industry_guess": "Other",
+  "confidence": "high",
+  "source_url": "https://thestablesonthebrazos.com/",
+  "notes": "The Stables on the Brazos is a luxury wedding and event venue at 2955 Bowser Rd, Fulshear TX 77441; TDLR records show building addition estimated at $1.5M with completion date 7/22/2025.",
+  "ts": "2026-05-13T00:00:00Z"
+}

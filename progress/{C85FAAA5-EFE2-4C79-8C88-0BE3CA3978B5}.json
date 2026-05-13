@@ -1,1 +1,12 @@
-{"permit_id":"{C85FAAA5-EFE2-4C79-8C88-0BE3CA3978B5}","business_name":"","dba":"","phone":"","website":"","industry_guess":"","confidence":"none","source_url":"https://www.homes.com/richmond-tx/77406/land-for-sale/","notes":"Richmond Estates Acres (77406) appears to be a residential acreage subdivision plat in Fort Bend County; no commercial tenant or specific developer identified in public records.","ts":"2026-05-13T12:02:00Z"}
+{
+  "permit_id": "{C85FAAA5-EFE2-4C79-8C88-0BE3CA3978B5}",
+  "business_name": "",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No specific business or tenant found for Richmond Estates Acres subdivision in 77406 (Richmond TX, Fort Bend County). Appears to be a residential subdivision permit.",
+  "ts": "2026-05-13T00:00:00Z"
+}

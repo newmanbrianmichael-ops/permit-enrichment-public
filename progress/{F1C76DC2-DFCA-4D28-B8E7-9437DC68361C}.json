@@ -1,1 +1,12 @@
-{"permit_id":"{F1C76DC2-DFCA-4D28-B8E7-9437DC68361C}","business_name":"","dba":"","phone":"","website":"","industry_guess":"","confidence":"none","source_url":"https://esearch.fbcad.org/","notes":"5th & Moore Estates Subdivision (77477 Stafford area) is a residential plat in Fort Bend County; no commercial tenant or developer details found in public web sources.","ts":"2026-05-13T12:06:00Z"}
+{
+  "permit_id": "{F1C76DC2-DFCA-4D28-B8E7-9437DC68361C}",
+  "business_name": "",
+  "dba": "",
+  "phone": "",
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No specific business or tenant found for 5th & Moore Estates Subdivision in 77477 (Stafford/Fort Bend County TX). Appears to be a residential subdivision permit with no online presence found.",
+  "ts": "2026-05-13T00:00:00Z"
+}
