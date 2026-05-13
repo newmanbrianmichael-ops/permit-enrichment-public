@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Ryko Development Inc",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
-  "notes": "Lakes of Bella Terra is a 725-acre master-planned residential community in Richmond TX by Ryko Development. ZIP 25826 on record appears to be a data error; actual community is in Fort Bend County TX (77406).",
-  "ts": "2026-05-13T00:00:00Z"
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Lakes of Bella Terra is a master-planned residential community in Richmond TX; permit zip 25826 appears erroneous (WV zip); no commercial tenant identified.",
+  "ts": "2026-05-13T18:19:51Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "D.R. Horton",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.drhorton.com",
+  "website": "",
   "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "Tamarron West is a 1300-acre residential development in Fort Bend County built by D.R. Horton; approximately 3800 lots planned. VIC AT TAMARRON WEST may denote a section or village within this master-planned community.",
-  "ts": "2026-05-13T00:00:00Z"
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Proposed apartment development in Tamarron community, Katy TX 77423; similar-named properties exist (Villas at Tamarron) but no direct match for this permit name confirmed.",
+  "ts": "2026-05-13T18:19:44Z"
 }

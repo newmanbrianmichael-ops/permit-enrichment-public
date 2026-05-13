@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "George Foundation",
+  "business_name": "Circle Oak II Apartments",
   "dba": "",
   "phone": "",
   "website": "",
   "industry_guess": "Multifamily",
   "confidence": "low",
-  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "Same address CIRCLE OAK 77469 as companion permit; Circle Oak II Apartments project (336 units) in Richmond TX; owner George Foundation. Confidence low due to duplicate address with no differentiating detail.",
-  "ts": "2026-05-13T00:00:00Z"
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Second permit for Circle Oak development, Richmond TX 77469; H-E-B and The Ryon (348-unit apartments) are open in this mixed-use Johnson Development community.",
+  "ts": "2026-05-13T18:19:41Z"
 }

@@ -2,11 +2,11 @@
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
   "business_name": "West End",
   "dba": "",
-  "phone": "",
+  "phone": "(281) 377-9519",
   "website": "https://westendrichmond.com",
   "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
-  "notes": "West End Apartments at 10510 W Aliana Trace Dr, Richmond TX 77407; 335-unit apartment community built 2023 within the Aliana master-planned community in Fort Bend County.",
-  "ts": "2026-05-13T00:00:00Z"
+  "confidence": "low",
+  "source_url": "https://westendrichmond.com/contact/",
+  "notes": "Apartment complex 'West End' at 10510 West Aliana Trace Dr, Richmond TX 77407 (Greystar-managed); permit name differs - may be a separate proposed project on same street.",
+  "ts": "2026-05-13T18:19:54Z"
 }
