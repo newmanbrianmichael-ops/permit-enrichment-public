@@ -1,12 +1,1 @@
-{
-  "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat; Circle Oak Section subdivision near Richmond TX 77469; no commercial tenant identified.",
-  "ts": "2026-04-23T12:00:00Z"
-}
+{"permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}", "business_name": "", "dba": "", "phone": "", "website": "", "industry_guess": "", "confidence": "none", "source_url": "", "notes": "Circle Oak is a proposed residential subdivision in Richmond TX 77469. No specific developer or commercial tenant identified from web search.", "ts": "2026-05-13T02:08:02Z"}

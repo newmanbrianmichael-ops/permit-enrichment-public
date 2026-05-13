@@ -1,12 +1,1 @@
-{
-  "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat; within Tamarron West master-planned community in Fulshear TX 77423; residential; no commercial tenant.",
-  "ts": "2026-04-23T12:00:00Z"
-}
+{"permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}", "business_name": "", "dba": "", "phone": "", "website": "", "industry_guess": "", "confidence": "none", "source_url": "", "notes": "VIC at Tamarron West is a proposed residential subdivision in the Fulshear/Brookshire TX 77423 area near the Tamarron master-planned community. No specific developer confirmed.", "ts": "2026-05-13T02:08:02Z"}

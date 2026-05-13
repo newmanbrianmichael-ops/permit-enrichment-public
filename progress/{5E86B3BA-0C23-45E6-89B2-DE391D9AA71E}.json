@@ -1,12 +1,1 @@
-{
-  "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "The Bend in Jordan Ranch",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "https://www.loopnet.com/Listing/Jordan-Ranch-Jordan-Crossing-Blvd-Brookshire-TX/31523874/",
-  "notes": "Planned 55,000 SF mixed-use retail center within Jordan Ranch MPC; Brookshire/Fulshear TX 77423; spaces still for lease; no confirmed anchor tenant.",
-  "ts": "2026-04-23T12:00:00Z"
-}
+{"permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}", "business_name": "Jordan Ranch Market", "dba": "", "phone": "", "website": "https://www.regencycenters.com/property/detail/60843/Jordan-Ranch-Market", "industry_guess": "Retail", "confidence": "low", "source_url": "https://www.regencycenters.com/property/detail/60843/Jordan-Ranch-Market", "notes": "Jordan Ranch Plaza in Fulshear TX 77423 matches a Regency Centers retail development known as Jordan Ranch Market. Exact match to this permit plat not confirmed; BPI Realty also lists a Jordan Ranch Shopping Plaza.", "ts": "2026-05-13T02:08:02Z"}

@@ -1,12 +1,1 @@
-{
-  "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat; Lakes of Bella Terra Reserve; master-planned residential community in Richmond TX; zip in record may be erroneous; no commercial tenant.",
-  "ts": "2026-04-23T12:00:00Z"
-}
+{"permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}", "business_name": "", "dba": "", "phone": "", "website": "", "industry_guess": "", "confidence": "none", "source_url": "", "notes": "Lakes of Bella Terra Reserve is a proposed reserve/expansion parcel within the Lakes of Bella Terra master-planned community in Richmond TX, developed by Ryko Development. No specific commercial tenant identified.", "ts": "2026-05-13T02:08:02Z"}

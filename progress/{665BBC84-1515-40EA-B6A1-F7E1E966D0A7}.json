@@ -1,12 +1,1 @@
-{
-  "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "",
-  "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat; Park at West Aliana Trace near Katy TX 77494; Aliana is master-planned residential; no commercial tenant identified.",
-  "ts": "2026-04-23T12:00:00Z"
-}
+{"permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}", "business_name": "", "dba": "", "phone": "", "website": "", "industry_guess": "Multifamily", "confidence": "low", "source_url": "https://coveringkaty.com/news/fort-bend/62m-apartment-project-coming-to-the-grand-at/", "notes": "Park at West Aliana Trace in Richmond TX 77407 matches a reported $62 million apartment project by NewQuest Residential at West Aliana Trace Dr and Fairbairn Way. Developer not confirmed as exact permit holder.", "ts": "2026-05-13T02:08:02Z"}
