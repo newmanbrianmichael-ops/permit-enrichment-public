@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "H-E-B",
-  "dba": "Richmond Market H-E-B",
+  "business_name": "",
+  "dba": "",
   "phone": "",
-  "website": "https://www.heb.com/heb-store/tx/richmond/richmond-market-h-e-b-727",
-  "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.heb.com/heb-store/tx/richmond/richmond-market-h-e-b-727",
-  "notes": "Circle Oak Pkwy in Richmond TX 77469 is associated with H-E-B Richmond Market at 23500 Circle Oak Pkwy; permit sqft (~34 acres) suggests a larger subdivision plat rather than the store alone.",
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "FortBend-Proposed plat (CIRCLE OAK, zip 77469, 1496460 sqft); no commercial tenant or building found in web search.",
   "ts": "2026-05-13T00:00:00Z"
 }

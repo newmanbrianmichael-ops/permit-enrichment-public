@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "H-E-B",
-  "dba": "Richmond Market H-E-B",
+  "business_name": "",
+  "dba": "",
   "phone": "",
-  "website": "https://www.heb.com/heb-store/tx/richmond/richmond-market-h-e-b-727",
-  "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "https://www.heb.com/heb-store/tx/richmond/richmond-market-h-e-b-727",
-  "notes": "Second Circle Oak permit at 77469 with different sqft (~26 acres); same area as H-E-B on Circle Oak Pkwy but more likely a residential subdivision plat section given the large acreage.",
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "FortBend-Proposed plat (CIRCLE OAK, zip 77469, 1144278 sqft); shares address/description with another permit; no commercial tenant found.",
   "ts": "2026-05-13T00:00:00Z"
 }
