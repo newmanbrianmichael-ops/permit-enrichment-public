@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "Johnson Development",
-  "dba": "Circle Oak II",
+  "business_name": "",
+  "dba": "",
   "phone": "",
-  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "Second Circle Oak permit (1.1M sqft area); Circle Oak II Apartments is a $2M new construction at 4435 FM 762 Rd, Richmond TX 77469, with a 6k SF clubhouse for a 336-unit apartment complex.",
-  "ts": "2026-05-14T12:00:00Z"
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Same Circle Oak master-planned development in Richmond TX 77469 as adjacent permit; proposed plat record with no single commercial tenant identifiable.",
+  "ts": "2026-05-14T00:00:00Z"
 }
