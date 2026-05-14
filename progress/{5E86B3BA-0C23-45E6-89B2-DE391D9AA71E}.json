@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "",
+  "business_name": "Jordan Ranch Plaza",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat (JORDAN RANCH PLAZA, zip 77423, 231051 sqft); search shows retail development activity in Jordan Ranch area but no confirmed tenant for this plat.",
-  "ts": "2026-05-13T00:00:00Z"
+  "website": "https://www.bpirealty.com/properties/jordan-ranch-shopping-plaza/",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://myneighborhoodnews.com/two-new-shopping-centers-coming-to-fulshear-adding-nearly-50000-square-feet-of-retail-space",
+  "notes": "Jordan Ranch Plaza is a proposed retail shopping center in the Jordan Ranch master-planned community area of Brookshire/Fulshear TX 77423; one of two new shopping centers adding ~50,000 sq ft of retail in Fulshear.",
+  "ts": "2026-05-14T17:30:00Z"
 }
