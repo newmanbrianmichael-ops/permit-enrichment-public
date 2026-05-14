@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Ryko Development",
-  "dba": "Lakes of Bella Terra",
+  "business_name": "Lakes of Bella Terra",
+  "dba": "",
   "phone": "",
-  "website": "https://www.har.com/lakes-of-bella-terra/masterplan_90",
+  "website": "https://lakesofbellaterra.net",
   "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://www.har.com/lakes-of-bella-terra/masterplan_90",
-  "notes": "Lakes of Bella Terra is a master-planned lakeside residential community in Richmond TX developed by Ryko Development, with a community shopping center component. Note: ZIP 25826 on the permit appears to be a data entry error; community is in the 77406 area.",
-  "ts": "2026-05-14T00:00:00Z"
+  "confidence": "low",
+  "source_url": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
+  "notes": "Lakes of Bella Terra is a Ryko Development master-planned residential community in Richmond TX (Fort Bend Co); RESERVE likely refers to a new phase. Permit zip 25826 appears to be a data entry error.",
+  "ts": "2026-05-14T12:00:00Z"
 }
