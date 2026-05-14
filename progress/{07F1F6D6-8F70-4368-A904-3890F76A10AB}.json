@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "No results found for Mini Truck Stop in Needville TX 77461. No confirming source found for a fuel or convenience facility by this name.",
-  "ts": "2026-05-14T00:00:00Z"
+  "industry_guess": "Automotive",
+  "confidence": "low",
+  "source_url": "https://www.yellowpages.com/needville-tx/mip/short-stop-13208357",
+  "notes": "Mini Truck Stop in Needville TX 77461 was not found as a named business; a 'Short Stop' convenience/fuel stop exists in 77461 but could not be confirmed as the permit subject.",
+  "ts": "2026-05-14T14:30:00Z"
 }
