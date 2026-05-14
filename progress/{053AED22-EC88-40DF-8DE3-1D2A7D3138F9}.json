@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
+  "business_name": "Circle Oak II Apartments",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
   "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "Circle Oak in Richmond TX 77469 is a master-planned development; the second permit likely covers a residential or mixed-use parcel with no single identifiable commercial tenant.",
-  "ts": "2026-05-14T14:30:00Z"
+  "notes": "Second Circle Oak plat in 77469. TABS permit TABS2026012534 shows a 336-unit for-rent apartment complex at 4435 FM 762 Rd within the Circle Oak master-planned development. No management phone confirmed.",
+  "ts": "2026-05-14T12:00:00Z"
 }
