@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "",
+  "business_name": "Lakes of Bella Terra Community Association",
   "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "LAKES OF BELLA TERRA RESERVE is a large residential master-planned community (1669 homes, 725 acres) by Ryko Development near Westpark Tollway/Grand Pkwy 99 in Richmond TX. Zip 25826 in record appears erroneous. No commercial cleaning prospect identified.",
-  "ts": "2026-05-14T12:00:00Z"
+  "phone": "(281) 342-9920",
+  "website": "https://lakesofbellaterra.net/",
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://lakesofbellaterra.net/",
+  "notes": "Lakes of Bella Terra is a master-planned residential community in Richmond TX managed by First Service Residential. Zip 25826 in permit appears to be a data entry error; actual location is Fort Bend County. The Reserve is likely a new section of this community.",
+  "ts": "2026-05-14T22:08:00Z"
 }

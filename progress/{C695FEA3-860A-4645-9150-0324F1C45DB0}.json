@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
+  "business_name": "Johnson Development Corp",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Circle Oak at zip 77469 (Richmond TX) is a Johnson Development commercial land project with multiple tenants including H-E-B and multifamily units. No single tenant can be attributed to this specific permit record; plat recording with no identifiable sole occupant.",
-  "ts": "2026-05-14T19:15:00Z"
+  "industry_guess": "Other",
+  "confidence": "low",
+  "source_url": "https://www.johnsondevelopment.com/",
+  "notes": "Circle Oak is a master-planned mixed-use development in Richmond TX 77469 by Johnson Development. 1.49M sqft proposed; large subdivision plat with no single identified tenant yet.",
+  "ts": "2026-05-14T22:08:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "",
+  "business_name": "West End",
   "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Park at West Aliana Trace at zip 77407 (Richmond TX) is a proposed residential subdivision plat. The adjacent Grand at Aliana is a separate apartment development; no tenant attributable to this specific permit record.",
-  "ts": "2026-05-14T19:15:00Z"
+  "phone": "(281) 377-9519",
+  "website": "https://westendrichmond.com/",
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.yelp.com/biz/west-end-richmond",
+  "notes": "West End is a Greystar-managed apartment community in Richmond TX 77407. The Park at West Aliana Trace proposed permit likely corresponds to this development or a planned adjacent phase.",
+  "ts": "2026-05-14T22:08:00Z"
 }
