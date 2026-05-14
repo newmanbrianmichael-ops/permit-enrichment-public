@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "",
+  "business_name": "The Vic at Tamarron West",
   "dba": "",
   "phone": "",
   "website": "",
   "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.drhorton.com/texas/houston/katy/villarosa-at-tamarron",
-  "notes": "VIC at Tamarron West is likely a section within the Tamarron West master-planned community in Brookshire/Fulshear TX 77423; area is predominantly D.R. Horton residential new construction.",
-  "ts": "2026-05-14T17:30:00Z"
+  "confidence": "medium",
+  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
+  "notes": "VIC AT TAMARRON WEST is consistent with the branded apartment community naming pattern in D.R. Horton's Tamarron West master-planned development in Fulshear TX 77423; a related project 'The Vic at Jordan Ranch' operates nearby. No confirmed phone or website found specifically for this Tamarron West address.",
+  "ts": "2026-05-14T03:13:18Z"
 }
