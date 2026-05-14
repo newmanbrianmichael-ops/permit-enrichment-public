@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "The Vic at Tamarron West",
+  "business_name": "",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "VIC AT TAMARRON WEST is consistent with the branded apartment community naming pattern in D.R. Horton's Tamarron West master-planned development in Fulshear TX 77423; a related project 'The Vic at Jordan Ranch' operates nearby. No confirmed phone or website found specifically for this Tamarron West address.",
-  "ts": "2026-05-14T03:13:18Z"
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Search for Vic at Tamarron West 77423 TX returned results about the Tamarron master-planned community but no specific project by this name. Likely a vacant or reserve parcel within the Tamarron residential community.",
+  "ts": "2026-05-14T00:00:00Z"
 }

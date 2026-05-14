@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://public.destinyhosted.com/rosendocs/2026/PLAN/20260121_1703/14321_1_-_PP_River_Forest_Ranch_-_11x17.pdf",
-  "notes": "RIVER FOREST RANCH is a proposed subdivision plat in Rosenberg TX 77471; a City of Rosenberg planning document confirms the plat name as of January 2026. No specific developer or commercial tenant identified; large acreage (329,357 SF) and plat naming indicate residential land development.",
-  "ts": "2026-05-14T03:13:18Z"
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Search for River Forest Ranch 77471 TX returned residential real estate listings but no commercial development matching this exact subdivision name.",
+  "ts": "2026-05-14T00:00:00Z"
 }

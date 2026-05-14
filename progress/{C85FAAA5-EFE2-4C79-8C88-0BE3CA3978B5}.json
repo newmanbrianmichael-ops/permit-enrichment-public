@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
+  "industry_guess": "Unknown",
+  "confidence": "none",
   "source_url": "",
-  "notes": "RICHMOND ESTATES ACRES is an unplatted or early-stage residential subdivision in Fort Bend County zip 77406; no specific developer or tenant name found in search results. Industry guess is Multifamily based on subdivision naming convention and large acreage (1,076,712 SF).",
-  "ts": "2026-05-14T03:13:18Z"
+  "notes": "Search for Richmond Estates Acres 77406 TX returned only generic real estate listings; appears to be a residential acreage subdivision with no identifiable commercial tenant or developer found.",
+  "ts": "2026-05-14T00:00:00Z"
 }

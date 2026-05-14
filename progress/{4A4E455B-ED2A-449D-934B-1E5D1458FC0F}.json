@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
+  "industry_guess": "Unknown",
+  "confidence": "none",
   "source_url": "",
-  "notes": "BEARD ENCLAVE is a proposed subdivision plat in Fort Bend County zip 77461 (Needville area); no developer or tenant identified in search results. Acreage of 435,600 SF and subdivision naming convention suggest a residential land development.",
-  "ts": "2026-05-14T03:13:18Z"
+  "notes": "Search for Beard Enclave 77461 TX returned only general Texas commercial real estate brokerage results with no specific subdivision match. No commercial tenant or developer identified.",
+  "ts": "2026-05-14T00:00:00Z"
 }
