@@ -2,11 +2,11 @@
   "permit_id": "{02AB5011-01FF-4818-87AB-4C5E1D085D06}",
   "business_name": "The Stables on the Brazos",
   "dba": "",
-  "phone": "(281) 640-2060",
+  "phone": "",
   "website": "https://thestablesonthebrazos.com/",
-  "industry_guess": "Hotel / Hospitality",
-  "confidence": "high",
-  "source_url": "https://thestablesonthebrazos.com/",
-  "notes": "THE STABLES ON THE BRAZOS is an operating wedding and event venue located at 2955 Bowser Rd, Fulshear TX 77441. Strong name match with an active website, phone number, and multiple directory listings confirming the business.",
-  "ts": "2026-05-15T14:45:00Z"
+  "industry_guess": "Other",
+  "confidence": "medium",
+  "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2023019101",
+  "notes": "The Stables on the Brazos is an operating wedding and event venue in Fulshear TX 77441 near 2955 Bowser Road with a TDLR-permitted building addition. Plat may represent a land subdivision associated with the venue property.",
+  "ts": "2026-05-15T00:00:00Z"
 }

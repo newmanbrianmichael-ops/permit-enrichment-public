@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "",
-  "dba": "",
+  "business_name": "D.R. Horton",
+  "dba": "Tamarron West",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "VIC AT TAMARRON WEST in zip 77423 (Brookshire/Fulshear area) returned no exact match; Tamarron West is a master-planned residential community by D.R. Horton but 'VIC AT TAMARRON WEST' appears to be a proposed plat reserve section within that community, not an operating business.",
-  "ts": "2026-05-15T14:45:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
+  "notes": "Tamarron West is a 1,300-acre residential master-planned community in Fulshear (77423) developed by D.R. Horton. VIC in the plat name likely denotes a reserve tract; no commercial tenant confirmed.",
+  "ts": "2026-05-15T00:00:00Z"
 }

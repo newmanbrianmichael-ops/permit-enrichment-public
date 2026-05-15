@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
-  "dba": "",
+  "business_name": "Johnson Development Corp",
+  "dba": "Circle Oak",
   "phone": "",
-  "website": "",
-  "industry_guess": "Multifamily",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Retail",
   "confidence": "medium",
-  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "Second CIRCLE OAK permit in Richmond TX 77469 (1.14M sqft); likely a companion plat phase to the Circle Oak II Apartments new construction project at 4435 FM 762 Rd. Dual permits under the same subdivision name suggest phased plat filing.",
-  "ts": "2026-05-15T14:45:00Z"
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Second plat filing under the Circle Oak name (77469), same Johnson Development commercial project adjacent to Brazos Town Center. Likely a second section or reserve tract of the same mixed-use development.",
+  "ts": "2026-05-15T00:00:00Z"
 }

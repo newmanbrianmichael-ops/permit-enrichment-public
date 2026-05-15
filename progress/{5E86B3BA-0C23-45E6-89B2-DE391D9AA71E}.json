@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
   "business_name": "",
-  "dba": "",
+  "dba": "Jordan Ranch Plaza",
   "phone": "",
-  "website": "",
+  "website": "https://www.bpirealty.com/properties/jordan-ranch-shopping-plaza/",
   "industry_guess": "Retail",
   "confidence": "medium",
-  "source_url": "https://www.regencycenters.com/property/detail/60843/Jordan-Ranch-Market",
-  "notes": "JORDAN RANCH PLAZA in zip 77423 (Brookshire/Fulshear TX) aligns with the Jordan Ranch master-planned community which includes planned commercial retail space. Regency Centers operates Jordan Ranch Market in the area; 'Jordan Ranch Plaza' is likely a proposed retail pad or strip center within that development zone.",
-  "ts": "2026-05-15T14:45:00Z"
+  "source_url": "https://www.bpirealty.com/properties/jordan-ranch-shopping-plaza/",
+  "notes": "Jordan Ranch in Brookshire/Fulshear (77423) has multiple retail centers including Jordan Ranch Shopping Plaza on Kingsland Blvd and The Bend at Jordan Ranch, a planned 55,000-SF mixed-use retail and restaurant center. No single anchor tenant confirmed for this specific plat.",
+  "ts": "2026-05-15T00:00:00Z"
 }
