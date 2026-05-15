@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "Johnson Development Corp.",
-  "dba": "Circle Oak",
-  "phone": "",
-  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "industry_guess": "Other",
-  "confidence": "high",
+  "business_name": "H-E-B Richmond Market",
+  "dba": "",
+  "phone": "(832) 595-5337",
+  "website": "https://www.heb.com/heb-store/tx/richmond/richmond-market-h-e-b-727",
+  "industry_guess": "Retail",
+  "confidence": "medium",
   "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Circle Oak is a large mixed-use commercial development by Johnson Development in Richmond TX 77469, with tenants including H-E-B, Kelsey Seybold (medical clinic), and The Ryon (multifamily); two permits likely cover separate north/south parcels of the same master development.",
-  "ts": "2026-05-15T00:00:00Z"
+  "notes": "Circle Oak mixed-use development; anchor tenant H-E-B Richmond Market (~100k sqft) at 23500 Circle Oak Pkwy, Richmond TX 77469. Also contains The Ryon (348-unit apartments) and Kelsey Seybold medical clinic. Specific parcel for this permit unclear.",
+  "ts": "2026-05-15T12:00:00Z"
 }

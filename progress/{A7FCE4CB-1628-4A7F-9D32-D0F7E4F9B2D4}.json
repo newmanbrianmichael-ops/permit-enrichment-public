@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
   "business_name": "",
-  "dba": "The Vic at Tamarron West",
+  "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://www.redfin.com/neighborhood/555272/TX/Fulshear/Tamarron/apartments-for-rent",
-  "notes": "The Vic brand operates apartment communities within the Tamarron master-planned community in 77423 (Fulshear/Katy area); Tamarron West extension likely adds multifamily residential units adjacent to the main Tamarron development.",
-  "ts": "2026-05-15T00:00:00Z"
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No exact match found for Vic at Tamarron West (77423). Similar luxury apartment brands (The Vic at Jordan Ranch) operate in the broader Katy/Brookshire area, but this specific project was not confirmed.",
+  "ts": "2026-05-15T12:00:00Z"
 }

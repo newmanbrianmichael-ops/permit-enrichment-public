@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "Johnson Development Corp.",
-  "dba": "Circle Oak",
+  "business_name": "",
+  "dba": "",
   "phone": "",
   "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "industry_guess": "Other",
-  "confidence": "high",
+  "industry_guess": "Retail",
+  "confidence": "low",
   "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Second Circle Oak proposed-plat record at 77469; same master mixed-use development by Johnson Development covering retail, medical, and multifamily components across two large parcels.",
-  "ts": "2026-05-15T00:00:00Z"
+  "notes": "Second permit parcel within Circle Oak mixed-use development (Richmond TX 77469). Multiple tenants: H-E-B anchor, The Ryon apartments, Kelsey Seybold. Cannot identify which specific parcel.",
+  "ts": "2026-05-15T12:00:00Z"
 }

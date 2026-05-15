@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
   "business_name": "",
-  "dba": "Jordan Ranch Plaza",
+  "dba": "",
   "phone": "",
-  "website": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
+  "website": "https://www.commercialsearch.com/commercial-property/us/tx/brookshire/jordan-ranch-shopping-plaza-1/",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
-  "notes": "Plaza at Jordan Ranch is a retail center in the Jordan Ranch master-planned community near Katy TX 77423, brokered by The Retail Connection; no specific anchor tenant confirmed but retail strip/neighborhood center use is well supported.",
-  "ts": "2026-05-15T00:00:00Z"
+  "confidence": "low",
+  "source_url": "https://www.commercialsearch.com/commercial-property/us/tx/brookshire/jordan-ranch-shopping-plaza-1/",
+  "notes": "Jordan Ranch area (Brookshire TX 77423) has multiple retail plazas: Jordan Ranch Shopping Plaza (30643 Kingsland Blvd), Commons at Jordan Ranch, and The Bend in Jordan Ranch (55k sqft future). Specific tenant for this permit not identified.",
+  "ts": "2026-05-15T12:00:00Z"
 }

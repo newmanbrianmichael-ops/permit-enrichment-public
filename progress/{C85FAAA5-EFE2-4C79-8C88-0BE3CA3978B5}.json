@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.loopnet.com/search/commercial-real-estate/richmond-tx-77406/for-sale/",
-  "notes": "No specific results found for Richmond Estates Acres in 77406; name pattern suggests a residential acreage subdivision in the Richmond/Fort Bend County area.",
-  "ts": "2026-05-15T00:00:00Z"
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No commercial tenant identified for Richmond Estates Acres (77406). Appears to be a residential subdivision plat.",
+  "ts": "2026-05-15T12:00:00Z"
 }

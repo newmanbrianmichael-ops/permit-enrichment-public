@@ -1,12 +1,12 @@
 {
   "permit_id": "{BF900BBA-1167-4194-948E-B951DE55BD88}",
   "business_name": "",
-  "dba": "Fulshear Village Mart",
+  "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.fulsheartexas.gov/business",
-  "notes": "MART in the name strongly implies a retail strip center or marketplace development in Fulshear TX 77441; no specific tenant or landlord identified in search results, but commercial retail use is the most likely intent.",
-  "ts": "2026-05-15T00:00:00Z"
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No commercial tenant found matching Fulshear Village Mart (77441). May be a proposed retail development; not yet indexed. Country Mart at 8526 FM 359 Rd S is nearby but does not match the permit name.",
+  "ts": "2026-05-15T12:00:00Z"
 }

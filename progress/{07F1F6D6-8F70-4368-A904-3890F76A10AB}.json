@@ -1,12 +1,12 @@
 {
   "permit_id": "{07F1F6D6-8F70-4368-A904-3890F76A10AB}",
   "business_name": "",
-  "dba": "Mini Truck Stop",
+  "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Automotive",
-  "confidence": "medium",
-  "source_url": "https://www.loopnet.com/biz/texas/truck-stops-for-sale",
-  "notes": "Name explicitly indicates a small truck stop or fuel/convenience development in 77461 (Needville/Fort Bend area); no specific business name or owner identified, but use type is clearly automotive/fuel retail.",
-  "ts": "2026-05-15T00:00:00Z"
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No commercial tenant found matching Mini Truck Stop in 77461 zip code. Rosenberg Travel Plaza (2801 US-59, 77471) is the nearest known truck stop but does not match the permit name or zip.",
+  "ts": "2026-05-15T12:00:00Z"
 }
