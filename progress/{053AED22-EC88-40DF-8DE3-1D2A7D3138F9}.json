@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "Johnson Development Corp",
+  "business_name": "",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Other",
-  "confidence": "low",
-  "source_url": "https://www.johnsondevelopment.com/",
-  "notes": "Second Circle Oak proposed plat in Richmond TX 77469; same master-planned development as the first permit. No specific tenant identified for this parcel.",
-  "ts": "2026-05-14T22:08:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
+  "notes": "Second CIRCLE OAK permit in Richmond TX 77469 (1.14M sqft); likely a companion plat phase to the Circle Oak II Apartments new construction project at 4435 FM 762 Rd. Dual permits under the same subdivision name suggest phased plat filing.",
+  "ts": "2026-05-15T14:45:00Z"
 }

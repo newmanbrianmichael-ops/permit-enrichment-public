@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Lakes of Bella Terra Community Association",
+  "business_name": "",
   "dba": "",
-  "phone": "(281) 342-9920",
-  "website": "https://lakesofbellaterra.net/",
-  "industry_guess": "Multifamily",
-  "confidence": "medium",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "low",
   "source_url": "https://lakesofbellaterra.net/",
-  "notes": "Lakes of Bella Terra is a master-planned residential community in Richmond TX managed by First Service Residential. Zip 25826 in permit appears to be a data entry error; actual location is Fort Bend County. The Reserve is likely a new section of this community.",
-  "ts": "2026-05-14T22:08:00Z"
+  "notes": "LAKES OF BELLA TERRA RESERVE with zip 25826 is a data error (25826 is WV); searched as Fort Bend TX and found Lakes of Bella Terra, an established 725-acre master-planned residential community in Richmond TX. 'Reserve' likely denotes a proposed reserve plat section within that community, not an operating business.",
+  "ts": "2026-05-15T14:45:00Z"
 }
