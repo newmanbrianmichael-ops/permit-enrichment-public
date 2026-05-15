@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "",
+  "business_name": "West End",
   "dba": "",
-  "phone": "",
-  "website": "https://www.newquest.com/property/the-grand-at-aliana/",
-  "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "https://www.commercialcafe.com/commercial-property/us/tx/richmond/neq-of-w-airport-blvd-w-aliana-trace-dr/",
-  "notes": "West Aliana Trace Dr in Richmond (77407) has a retail development at W. Airport Blvd with restaurant endcaps planned, adjacent to the Aliana master-planned community. No single named tenant confirmed for this specific plat.",
-  "ts": "2026-05-15T00:00:00Z"
+  "phone": "(281) 378-7819",
+  "website": "https://westendrichmond.com/",
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
+  "notes": "Park at West Aliana Trace in Richmond TX 77407 corresponds to the West End apartment community at 10510 W Aliana Trace Dr, a 335-unit Greystar-managed multifamily property opened in 2023; match is medium confidence as the permit name differs slightly from the branded community name.",
+  "ts": "2026-05-15T15:30:00Z"
 }

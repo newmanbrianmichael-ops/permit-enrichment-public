@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "D.R. Horton",
-  "dba": "Tamarron West",
+  "business_name": "",
+  "dba": "",
   "phone": "",
   "website": "",
   "industry_guess": "Multifamily",
   "confidence": "low",
-  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "Tamarron West is a 1,300-acre residential master-planned community in Fulshear (77423) developed by D.R. Horton. VIC in the plat name likely denotes a reserve tract; no commercial tenant confirmed.",
-  "ts": "2026-05-15T00:00:00Z"
+  "source_url": "https://www.loopnet.com/Listing/30802-Tamarron-Pky-Fulshear-TX/31891926/",
+  "notes": "Vic at Tamarron West in 77423 (Fulshear/Katy) appears to be a multifamily residential development; the 'Vic' brand is associated with apartment communities in the Tamarron area, though the specific proposed subdivision was not confirmed.",
+  "ts": "2026-05-15T15:30:00Z"
 }
