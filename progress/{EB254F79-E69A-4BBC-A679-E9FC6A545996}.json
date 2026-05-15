@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.redfin.com/TX/Rosenberg/3535-River-Ranch-North-Dr-77471/home/33152915",
-  "notes": "Search returned residential listings on River Ranch North/South Dr in Rosenberg TX 77471, suggesting River Forest Ranch is a residential subdivision. No commercial tenant identified.",
-  "ts": "2026-05-15T00:00:00Z"
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "RIVER FOREST RANCH in Rosenberg 77471 returned only residential real estate results for River Ranch Drive streets. No commercial tenant or business identified for this plat name.",
+  "ts": "2026-05-15T15:30:00Z"
 }
