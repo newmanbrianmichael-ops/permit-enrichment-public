@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "Circle Oak II Apartments",
+  "business_name": "Circle Oak",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Multifamily",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
   "confidence": "medium",
-  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "Same 336-unit multifamily at 4435 FM 762 Rd, Richmond TX 77469 as adjacent CIRCLE OAK permit; owner George Foundation.",
-  "ts": "2026-05-15T10:11:11Z"
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Second plat section of Circle Oak mixed-use development by Johnson Development; same development as adjacent permit. Tenants include H-E-B, Kelsey Seybold medical clinic, and multifamily units.",
+  "ts": "2026-05-15T12:00:00Z"
 }

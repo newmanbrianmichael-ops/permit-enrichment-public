@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "No match found; name suggests planned retail mart in Fulshear TX 77441 but no tenant data available.",
-  "ts": "2026-05-15T10:11:11Z"
+  "industry_guess": "Retail",
+  "confidence": "low",
+  "source_url": "https://www.fulsheartexas.gov/business",
+  "notes": "Fulshear Village Mart is a proposed commercial development in downtown Fulshear TX 77441; no confirmed tenants or contact info found in search results.",
+  "ts": "2026-05-15T12:00:00Z"
 }

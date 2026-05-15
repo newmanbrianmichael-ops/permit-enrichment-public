@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "Circle Oak II Apartments",
+  "business_name": "Circle Oak",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Multifamily",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
   "confidence": "medium",
-  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "336-unit apartment complex at 4435 FM 762 Rd, Richmond TX 77469; 6,000 SF clubhouse new construction per TDLR; owner is George Foundation.",
-  "ts": "2026-05-15T10:11:11Z"
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Mixed-use development by Johnson Development in Richmond TX 77469. Tenants include H-E-B, Kelsey Seybold medical clinic, and The Ryon (348-unit multifamily). Circle Oak II adds 336 rental units.",
+  "ts": "2026-05-15T12:00:00Z"
 }
