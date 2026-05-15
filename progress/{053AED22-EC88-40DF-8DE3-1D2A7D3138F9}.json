@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
+  "business_name": "Circle Oak II Apartments",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Second Circle Oak permit (1,144,278 sqft) shares address with prior permit; same large proposed land area in Richmond TX 77469 with no single identifiable commercial tenant.",
-  "ts": "2026-05-15T15:30:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
+  "notes": "Same 336-unit multifamily at 4435 FM 762 Rd, Richmond TX 77469 as adjacent CIRCLE OAK permit; owner George Foundation.",
+  "ts": "2026-05-15T10:11:11Z"
 }

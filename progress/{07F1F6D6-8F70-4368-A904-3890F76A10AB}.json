@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Warehouse / Industrial",
-  "confidence": "low",
+  "industry_guess": "Unknown",
+  "confidence": "none",
   "source_url": "",
-  "notes": "Mini Truck Stop in zip 77461 (Needville TX) returned no direct match; the name suggests a fuel/convenience stop for trucks, but no confirmed business was found at this proposed development address.",
-  "ts": "2026-05-15T15:30:00Z"
+  "notes": "No match found; name suggests a small fuel/convenience stop proposed in Rosenberg TX 77461 but no business data found.",
+  "ts": "2026-05-15T10:11:11Z"
 }
