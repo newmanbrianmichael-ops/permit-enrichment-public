@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "",
+  "business_name": "Lakes of Bella Terra",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Lakes of Bella Terra is a primarily residential master-planned community in Richmond TX (725 acres, ~1,669 homes). No commercial tenant. Zip code 25826 appears to be a data entry error (WV zip).",
-  "ts": "2026-05-15T12:00:00Z"
+  "website": "https://lakesofbellaterra.net/",
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://lakesofbellaterra.net/",
+  "notes": "Lakes of Bella Terra is a master-planned residential community in Richmond TX 77406 by Ryko Development. Zip 25826 in permit appears to be a data entry error. No specific commercial tenant within the reserve parcel.",
+  "ts": "2026-05-15T00:00:00Z"
 }
