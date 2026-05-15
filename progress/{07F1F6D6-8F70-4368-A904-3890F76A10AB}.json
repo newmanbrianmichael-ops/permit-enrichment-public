@@ -1,12 +1,12 @@
 {
   "permit_id": "{07F1F6D6-8F70-4368-A904-3890F76A10AB}",
   "business_name": "",
-  "dba": "",
+  "dba": "Mini Truck Stop",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "No match found for Mini Truck Stop in 77461 Needville TX; may be proposed development name rather than existing business.",
-  "ts": "2026-05-15T12:00:00Z"
+  "industry_guess": "Automotive",
+  "confidence": "medium",
+  "source_url": "https://www.loopnet.com/biz/texas/truck-stops-for-sale",
+  "notes": "Name explicitly indicates a small truck stop or fuel/convenience development in 77461 (Needville/Fort Bend area); no specific business name or owner identified, but use type is clearly automotive/fuel retail.",
+  "ts": "2026-05-15T00:00:00Z"
 }

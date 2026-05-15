@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "No results found for River Forest Ranch in 77471 Rosenberg TX; likely rural residential plat.",
-  "ts": "2026-05-15T12:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://www.redfin.com/TX/Rosenberg/3535-River-Ranch-North-Dr-77471/home/33152915",
+  "notes": "Search returned only residential homes in the River Ranch area of Rosenberg TX 77471; River Forest Ranch likely follows the same residential subdivision pattern in the same general area.",
+  "ts": "2026-05-15T00:00:00Z"
 }
