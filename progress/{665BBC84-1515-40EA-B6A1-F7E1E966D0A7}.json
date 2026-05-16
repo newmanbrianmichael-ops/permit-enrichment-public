@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "",
+  "business_name": "West End",
   "dba": "",
-  "phone": "",
-  "website": "",
+  "phone": "(281) 377-9519",
+  "website": "https://westendrichmond.com/",
   "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.har.com/aliana/masterplan_84",
-  "notes": "PARK AT WEST ALIANA TRACE is likely a residential section within the Aliana master-planned community in Richmond TX, a 2,000-plus-acre development in Fort Bend County.",
-  "ts": "2026-05-16T00:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.yelp.com/biz/west-end-richmond",
+  "notes": "West End apartments at 10510 W Aliana Trace Dr, Richmond TX 77407 - Greystar managed luxury apartment community. Address on West Aliana Trace Dr matches permit description PARK AT WEST ALIANA TRACE. Multiple listing sources confirm.",
+  "ts": "2026-05-16T12:00:00Z"
 }

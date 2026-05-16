@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Ryko Development Inc.",
+  "business_name": "",
   "dba": "",
-  "phone": "",
-  "website": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
+  "phone": "(281) 342-9920",
+  "website": "https://lakesofbellaterra.net/",
   "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
-  "notes": "Lakes of Bella Terra is a large master-planned residential community in Richmond TX developed by Ryko Development; RESERVE parcel is likely a common-area or future-phase tract.",
-  "ts": "2026-05-16T00:00:00Z"
+  "confidence": "low",
+  "source_url": "https://lakesofbellaterra.net/",
+  "notes": "Lakes of Bella Terra is a master-planned residential community in Richmond TX 77406 managed by FS Residential. Record zip 25826 appears to be a data entry error; community is in Fort Bend County 77406. Management office: 11620 W Torino Reale Dr, phone (281) 342-9920.",
+  "ts": "2026-05-16T12:00:00Z"
 }

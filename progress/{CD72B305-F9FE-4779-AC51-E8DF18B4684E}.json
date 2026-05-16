@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
+  "industry_guess": "",
   "confidence": "none",
-  "source_url": "https://www.fortbendcountytx.gov/government/departments/engineering/development/plats",
-  "notes": "MU ACRES RESERVE appears to be a reserve parcel plat within a Fort Bend County subdivision; no developer or tenant information found.",
-  "ts": "2026-05-16T00:00:00Z"
+  "source_url": "",
+  "notes": "No match for Mu Acres Reserve in zip 77561 (Freeport/Brazoria area). No commercial tenant identified; source listed as FortBend-Proposed but zip may be outside Fort Bend County.",
+  "ts": "2026-05-16T12:00:00Z"
 }
