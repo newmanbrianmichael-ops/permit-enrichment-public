@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "Jordan Ranch Shopping Plaza",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.jordanranchtexas.com/commercial/",
+  "website": "",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.commercialsearch.com/commercial-property/us/tx/brookshire/jordan-ranch-shopping-plaza-1/",
-  "notes": "JORDAN RANCH PLAZA in Brookshire 77423 matches Jordan Ranch Shopping Plaza at 30643 Kingsland Blvd. The broader Jordan Ranch commercial district includes a planned H-E-B-anchored center and multiple pad-site tenants (Chipotle, Take5 Oil Change).",
-  "ts": "2026-05-15T15:30:00Z"
+  "confidence": "low",
+  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
+  "notes": "JORDAN RANCH PLAZA in 77423 corresponds to a commercial retail corridor anchored by tenants like Chipotle and Take5 Oil Change; the exact name 'Jordan Ranch Plaza' was not found as a distinct project, though the Plaza at Jordan Ranch (Retail Connection) is a close match.",
+  "ts": "2026-05-16T00:00:00Z"
 }

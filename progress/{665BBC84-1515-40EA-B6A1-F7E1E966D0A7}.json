@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "West End",
+  "business_name": "",
   "dba": "",
-  "phone": "(281) 378-7819",
-  "website": "https://westendrichmond.com/",
-  "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
-  "notes": "PARK AT WEST ALIANA TRACE in Richmond 77407 closely matches West End apartments at 10510 W Aliana Trace Dr, Richmond TX 77407 - a 335-unit, 4-story multifamily community built 2023. Address alignment is strong but permit name differs from branded name.",
-  "ts": "2026-05-15T15:30:00Z"
+  "phone": "",
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "https://www.commercialsearch.com/commercial-property/us/tx/richmond/neq-of-w-airport-blvd-w-aliana-trace-dr/",
+  "notes": "FortBend-Proposed subdivision permit; PARK AT WEST ALIANA TRACE 77407 returned residential apartment and generic retail pad results - no specific commercial tenant confirmed for this permit.",
+  "ts": "2026-05-16T00:00:00Z"
 }
