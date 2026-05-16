@@ -1,12 +1,12 @@
 {
   "permit_id": "{02AB5011-01FF-4818-87AB-4C5E1D085D06}",
-  "business_name": "",
+  "business_name": "The Stables on the Brazos",
   "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Proposed residential subdivision plat (The Stables on the Brazos, 77441); land plat filing with no commercial occupant.",
-  "ts": "2026-05-16T00:00:00Z"
+  "phone": "281-640-2060",
+  "website": "https://thestablesonthebrazos.com",
+  "industry_guess": "Other",
+  "confidence": "high",
+  "source_url": "https://thestablesonthebrazos.com",
+  "notes": "Event and wedding venue at 2955 Bowser Road, Fulshear TX 77441. Full-service all-inclusive venue hosting weddings, corporate events, and quinceAneras. Exact name match to permit description.",
+  "ts": "2026-05-16T14:00:00Z"
 }

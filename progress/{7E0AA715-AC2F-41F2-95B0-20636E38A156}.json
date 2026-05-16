@@ -2,11 +2,11 @@
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
   "business_name": "",
   "dba": "",
-  "phone": "(281) 342-9920",
-  "website": "https://lakesofbellaterra.net/",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://lakesofbellaterra.net/",
-  "notes": "Lakes of Bella Terra is a master-planned residential community in Richmond TX 77406 managed by FS Residential. Record zip 25826 appears to be a data entry error; community is in Fort Bend County 77406. Management office: 11620 W Torino Reale Dr, phone (281) 342-9920.",
-  "ts": "2026-05-16T12:00:00Z"
+  "phone": "",
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "FortBend-Proposed plat record (LAKES OF BELLA TERRA RESERVE, zip 25826 appears incorrect for TX). Lakes of Bella Terra is a residential HOA in Richmond TX; no commercial tenant applicable.",
+  "ts": "2026-05-16T14:00:00Z"
 }
