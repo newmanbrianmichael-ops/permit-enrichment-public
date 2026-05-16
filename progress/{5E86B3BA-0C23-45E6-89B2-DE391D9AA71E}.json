@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "",
+  "business_name": "ARVO Jordan Ranch LLC",
   "dba": "",
   "phone": "",
-  "website": "",
+  "website": "https://www.johnsondevelopment.com/mpc_jordan_ranch",
   "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
-  "notes": "Plaza at Jordan Ranch is a retail strip center in Katy TX 77423; tenants reported in 2024 include Big City Wings and Pure Barre; specific permit tenant not confirmed.",
-  "ts": "2026-05-16T02:15:29Z"
+  "confidence": "medium",
+  "source_url": "https://agendalink.fortbendcountytx.gov/docs/2025/CCTR/20250325_3976/63860_032525_Plat_Plaza_at_Jordan_Ranch.pdf",
+  "notes": "Plaza at Jordan Ranch is a 4.277-acre commercial plat recorded March 2025 owned by ARVO Jordan Ranch LLC, within Johnson Development's Jordan Ranch master-planned community.",
+  "ts": "2026-05-16T00:00:00Z"
 }

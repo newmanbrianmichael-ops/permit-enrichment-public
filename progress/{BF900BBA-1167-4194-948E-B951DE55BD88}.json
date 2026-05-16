@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FULSHEAR VILLAGE MART in zip 77441; no specific retail center or tenant listing found under this name.",
-  "ts": "2026-05-16T02:15:29Z"
+  "industry_guess": "Retail",
+  "confidence": "low",
+  "source_url": "https://www.fortbendcountytx.gov/government/departments/engineering/development/plats",
+  "notes": "FULSHEAR VILLAGE MART name suggests a retail or commercial shopping center plat in Fulshear TX; no specific developer or tenant confirmed.",
+  "ts": "2026-05-16T00:00:00Z"
 }

@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "MINI TRUCK STOP in zip 77461 (Needville TX); no business listing found under this name.",
-  "ts": "2026-05-16T02:15:29Z"
+  "industry_guess": "Warehouse / Industrial",
+  "confidence": "low",
+  "source_url": "https://www.fortbendcountytx.gov/government/departments/engineering/development/plats",
+  "notes": "MINI TRUCK STOP name suggests a fuel or trucking commercial use; no developer or site details confirmed for this Fort Bend County proposed plat.",
+  "ts": "2026-05-16T00:00:00Z"
 }
