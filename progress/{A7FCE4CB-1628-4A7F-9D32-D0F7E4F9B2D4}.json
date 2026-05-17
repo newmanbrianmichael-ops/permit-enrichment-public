@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "The Vic at Tamarron West",
+  "business_name": "",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "Search found The Vic apartment brand in the Tamarron/Jordan Ranch area of 77423 (Fulshear/Katy TX). This proposed plat may be land for a planned Vic apartment development at Tamarron West, but the specific address was not confirmed.",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "https://www.fbcmud182.org/about/",
+  "notes": "Vic at Tamarron West in zip 77423 (Brookshire area) appears to be a proposed residential or mixed-use plat; no commercial tenant identified.",
   "ts": "2026-05-17T00:00:00Z"
 }
