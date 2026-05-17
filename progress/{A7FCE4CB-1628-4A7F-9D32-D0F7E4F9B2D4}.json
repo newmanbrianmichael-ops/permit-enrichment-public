@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
+  "industry_guess": "Unknown",
+  "confidence": "none",
   "source_url": "",
-  "notes": "Name pattern 'Vic at Tamarron West' strongly suggests a multifamily apartment community in the Tamarron master-planned area (Fulshear/Brookshire, 77423). No confirmed address or phone found for this specific phase.",
-  "ts": "2026-05-17T12:00:00Z"
+  "notes": "No results found for 'VIC AT TAMARRON WEST' subdivision in zip 77423; nearby Tamarron area has retail development but this plat name returned no direct match.",
+  "ts": "2026-05-17T00:00:00Z"
 }

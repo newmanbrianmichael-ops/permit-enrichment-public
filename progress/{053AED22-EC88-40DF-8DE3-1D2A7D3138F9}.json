@@ -3,10 +3,10 @@
   "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Other",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Retail",
   "confidence": "low",
   "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Second Circle Oak permit in same development area (Richmond TX 77469); mixed-use project with retail, multifamily, and medical uses. No single tenant identified for this lot.",
-  "ts": "2026-05-17T12:00:00Z"
+  "notes": "Second Circle Oak plat parcel in 77469; same Johnson Development mixed-use master plan as sibling permit. No specific tenant identified for this parcel.",
+  "ts": "2026-05-17T00:00:00Z"
 }
