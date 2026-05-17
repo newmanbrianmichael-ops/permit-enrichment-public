@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "",
+  "business_name": "Ryko Development",
   "dba": "",
   "phone": "",
-  "website": "",
+  "website": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
   "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://lakesofbellaterra.net/",
-  "notes": "Lakes of Bella Terra is a 725-acre residential master-planned community in Richmond TX (near Hwy 99 and Westpark Tollway); 1,669 homes. RESERVE is likely a plat section. Zip 25826 in queue record appears incorrect (West Virginia zip). No commercial tenant.",
-  "ts": "2026-05-17T12:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
+  "notes": "Lakes of Bella Terra Reserve is associated with Ryko Development's Lakes of Bella Terra master-planned community in Richmond TX; the zip 25826 appears to be a data entry error as Bella Terra is in the Richmond TX 77406/77407 area. The reserve plat (~6.4 acres) likely represents a common area or amenity reserve tract.",
+  "ts": "2026-05-17T00:00:00Z"
 }

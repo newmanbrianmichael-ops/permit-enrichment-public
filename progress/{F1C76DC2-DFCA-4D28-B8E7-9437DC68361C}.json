@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
   "source_url": "",
-  "notes": "No commercial tenant identified for 5th & Moore Estates Subdivision plat in Stafford TX 77477.",
-  "ts": "2026-05-17T12:00:00Z"
+  "notes": "5th and Moore Estates Subdivision in zip 77477 (Stafford/Missouri City area) returned no search results; name suggests a small residential subdivision plat. No developer or business identity confirmed.",
+  "ts": "2026-05-17T00:00:00Z"
 }

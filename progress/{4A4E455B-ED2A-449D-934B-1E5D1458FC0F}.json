@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "No commercial tenant identified for Beard Enclave subdivision plat near Needville TX 77461.",
-  "ts": "2026-05-17T12:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://www.har.com/homedetail/7525-beard-rd-needville-tx-77461/15222361",
+  "notes": "Beard Enclave in zip 77461 (Needville TX area) likely references a small residential subdivision near Beard Road; no named developer or business found. The ~10-acre size is consistent with a small rural residential enclave plat.",
+  "ts": "2026-05-17T00:00:00Z"
 }

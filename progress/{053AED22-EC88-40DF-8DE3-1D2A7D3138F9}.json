@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
+  "business_name": "Johnson Development",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Other",
-  "confidence": "low",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
   "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Second plat section of Circle Oak mixed-use commercial development by Johnson Development in Richmond TX 77469; adjacent tenants include H-E-B, The Ryon multifamily, and Kelsey Seybold medical clinic. Plat record - no single named tenant for this section.",
-  "ts": "2026-05-17T12:00:00Z"
+  "notes": "Second proposed plat for Circle Oak in Richmond TX 77469, same developer as permit C695FEA3; likely a separate section or phase of the same Johnson Development master-planned project.",
+  "ts": "2026-05-17T00:00:00Z"
 }

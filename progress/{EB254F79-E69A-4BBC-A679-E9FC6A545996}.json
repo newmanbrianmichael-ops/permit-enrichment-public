@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
   "source_url": "",
-  "notes": "No commercial tenant identified for River Forest Ranch subdivision plat near Rosenberg TX 77471.",
-  "ts": "2026-05-17T12:00:00Z"
+  "notes": "River Forest Ranch in zip 77471 (Rosenberg TX area) returned no specific project match; the name suggests a rural residential ranch subdivision plat. No developer or business identity confirmed from search results.",
+  "ts": "2026-05-17T00:00:00Z"
 }

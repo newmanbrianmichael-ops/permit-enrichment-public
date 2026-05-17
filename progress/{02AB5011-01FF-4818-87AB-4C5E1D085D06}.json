@@ -2,11 +2,11 @@
   "permit_id": "{02AB5011-01FF-4818-87AB-4C5E1D085D06}",
   "business_name": "The Stables on the Brazos",
   "dba": "",
-  "phone": "281-640-2060",
-  "website": "https://thestablesonthebrazos.com",
-  "industry_guess": "Other",
+  "phone": "",
+  "website": "https://thestablesonthebrazos.com/",
+  "industry_guess": "Hotel / Hospitality",
   "confidence": "high",
   "source_url": "https://thestablesonthebrazos.com/",
-  "notes": "Luxury wedding and event venue at 2955 Bowser Rd, Fulshear TX 77441; TDLR building additions completed 2025; all-inclusive event packages starting at $6,900.",
-  "ts": "2026-05-17T12:00:00Z"
+  "notes": "The Stables on the Brazos at 2955 Bowser Road, Fulshear TX 77441 is an all-inclusive wedding and event venue; a TDLR project record shows an addition/expansion with estimated cost of $1.5M and completion in mid-2025. The proposed plat likely covers the venue's land parcel.",
+  "ts": "2026-05-17T00:00:00Z"
 }

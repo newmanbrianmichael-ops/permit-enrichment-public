@@ -7,6 +7,6 @@
   "industry_guess": "Unknown",
   "confidence": "none",
   "source_url": "",
-  "notes": "No commercial tenant identified for MU Acres Reserve plat; zip 77561 appears to be Liberty/Hardin County TX, not Fort Bend County - possible data entry error in queue.",
-  "ts": "2026-05-17T12:00:00Z"
+  "notes": "MU Acres Reserve in zip 77561 (Hitchcock/Galveston County boundary area) returned no relevant results; the zip 77561 is outside typical Fort Bend County boundaries, suggesting a possible data entry issue. No developer or business identity found.",
+  "ts": "2026-05-17T00:00:00Z"
 }
