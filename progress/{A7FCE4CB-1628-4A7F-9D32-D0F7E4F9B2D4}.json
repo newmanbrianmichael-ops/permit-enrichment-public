@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "D.R. Horton",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://quiddity.com/projects/tamarron-west-development/",
+  "website": "",
   "industry_guess": "Multifamily",
   "confidence": "low",
-  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "Tamarron West in Fulshear/Brookshire 77423 is associated with D.R. Horton and engineering firm Quiddity; 'VIC AT TAMARRON WEST' likely refers to villas or a section within this community.",
-  "ts": "2026-05-17T05:15:00Z"
+  "source_url": "",
+  "notes": "Name pattern 'Vic at Tamarron West' strongly suggests a multifamily apartment community in the Tamarron master-planned area (Fulshear/Brookshire, 77423). No confirmed address or phone found for this specific phase.",
+  "ts": "2026-05-17T12:00:00Z"
 }

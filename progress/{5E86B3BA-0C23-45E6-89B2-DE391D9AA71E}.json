@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "",
+  "business_name": "Jordan Ranch Shopping Plaza",
   "dba": "",
   "phone": "",
   "website": "",
   "industry_guess": "Retail",
-  "confidence": "none",
-  "source_url": "https://agendalink.fortbendcountytx.gov/docs/2025/CCTR/20250325_3976/63860_032525_Plat_Plaza_at_Jordan_Ranch.pdf",
-  "notes": "A plat recording for Plaza at Jordan Ranch was filed with Fort Bend County in March 2025, confirming a planned retail development in the Jordan Ranch community (zip 77423), but no specific tenant businesses were identified.",
-  "ts": "2026-05-17T00:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.commercialsearch.com/commercial-property/us/tx/brookshire/jordan-ranch-shopping-plaza-1/",
+  "notes": "Jordan Ranch Shopping Plaza at 30643 Kingsland Blvd, Brookshire TX 77423 matches the permit name. Retail strip/shopping center development in the Jordan Ranch master-planned community; no individual tenant phone number found.",
+  "ts": "2026-05-17T12:00:00Z"
 }

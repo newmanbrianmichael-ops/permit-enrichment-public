@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "",
+  "business_name": "West End",
   "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Search found West End apartments at 10510 W Aliana Trace Dr Richmond TX 77407, but Park at West Aliana Trace is a proposed subdivision/tract plat name, not the apartment complex. No specific commercial tenant identified for this permit.",
-  "ts": "2026-05-17T00:00:00Z"
+  "phone": "281-378-7819",
+  "website": "https://westendrichmond.com",
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
+  "notes": "West End apartments (Greystar) at 10510 W. Aliana Trace Dr., Richmond TX 77407 matches the West Aliana Trace address. Luxury multifamily community in the Aliana master-planned development; marketing name differs from permit name.",
+  "ts": "2026-05-17T12:00:00Z"
 }

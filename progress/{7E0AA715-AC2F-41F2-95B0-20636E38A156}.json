@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
   "source_url": "https://lakesofbellaterra.net/amenities",
-  "notes": "Lakes of Bella Terra is a residential master-planned community in Richmond TX; search found no specific tenant or commercial business for this PROPOSED reserve tract (zip 25826 appears anomalous for Fort Bend County).",
-  "ts": "2026-05-17T00:00:00Z"
+  "notes": "Lakes of Bella Terra Reserve - the Lakes of Bella Terra is a master-planned residential community in Richmond TX (77406). The Reserve section appears to be residential; Allora Bella Terra and Parkside Bella Terra are nearby apartment communities. No single commercial tenant identified.",
+  "ts": "2026-05-17T12:00:00Z"
 }
