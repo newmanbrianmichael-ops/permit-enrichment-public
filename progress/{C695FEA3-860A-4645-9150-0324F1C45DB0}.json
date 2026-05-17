@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
+  "business_name": "Johnson Development",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
+  "confidence": "medium",
   "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Circle Oak is a Johnson Development mixed-use site in Richmond TX with existing anchors (H-E-B, Kelsey Seybold, The Ryon), but this permit record is PROPOSED work on undeveloped acreage with no specific tenant identified.",
-  "ts": "2026-05-17T00:00:00Z"
+  "notes": "Circle Oak is a commercial mixed-use development in Richmond TX 77469 by Johnson Development, featuring retail, multifamily, and medical tenants along freeway frontage.",
+  "ts": "2026-05-17T05:15:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
+  "business_name": "Johnson Development",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
+  "confidence": "medium",
   "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Circle Oak is a Johnson Development mixed-use site in Richmond TX; this PROPOSED permit covers a separate acreage tract with no current tenant identified at this stage of development.",
-  "ts": "2026-05-17T00:00:00Z"
+  "notes": "Second plat filing for Circle Oak development in Richmond TX 77469 by Johnson Development; same master-planned commercial area as companion permit.",
+  "ts": "2026-05-17T05:15:00Z"
 }
