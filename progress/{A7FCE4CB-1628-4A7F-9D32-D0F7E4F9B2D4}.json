@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "D.R. Horton / Quiddity Engineering",
+  "business_name": "D.R. Horton",
   "dba": "",
   "phone": "",
-  "website": "https://quiddity.com/projects/tamarron-west-development/",
+  "website": "https://www.drhorton.com",
   "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "VIC at Tamarron West is part of the ~1,300-acre Tamarron West master-planned community in Fulshear TX developed by D.R. Horton with engineering by Quiddity; the broader Tamarron community will include 4,000+ homes. The 'VIC' designation likely refers to a village or section plat.",
-  "ts": "2026-05-17T00:00:00Z"
+  "confidence": "low",
+  "source_url": "https://jome.com/community/tx/3426-tamarron-d-r-horton-by-d-r-horton-3506-elk-horn-court-katy-tx-77494",
+  "notes": "VIC at Tamarron West is a proposed residential subdivision in the 77423 zip code near Brookshire/Katy TX. Search results confirm D.R. Horton is the primary homebuilder in the Tamarron master-planned community, though this specific section name was not confirmed.",
+  "ts": "2026-05-17T21:12:37Z"
 }
