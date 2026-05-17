@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
+  "industry_guess": "Unknown",
   "confidence": "none",
   "source_url": "",
-  "notes": "FortBend-Proposed plat record (RIVER FOREST RANCH, 77471 Rosenberg area). No commercial tenant identified; residential ranch subdivision.",
-  "ts": "2026-05-16T14:00:00Z"
+  "notes": "No business tenant found. Search returned River Ranch residential subdivision results in Rosenberg TX (77471) but no match for River Forest Ranch as a business or commercial tenant.",
+  "ts": "2026-05-17T00:00:00Z"
 }

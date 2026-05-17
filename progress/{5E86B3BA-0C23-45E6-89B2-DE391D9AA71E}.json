@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "",
-  "dba": "",
+  "business_name": "Plaza at Jordan Ranch",
+  "dba": "Jordan Ranch Market",
   "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat record (JORDAN RANCH PLAZA, 77423 Fulshear). The Bend at Jordan Ranch is a planned commercial area still securing tenants as of 2025; no current specific tenant match found.",
-  "ts": "2026-05-16T14:00:00Z"
+  "website": "https://www.jordanranchtexas.com/commercial/",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
+  "notes": "Regency Centers developing Jordan Ranch Market as an anchor-tenant shopping center (~162,000 sf) with H-E-B grocery and 15-18 additional tenant spaces. Located at NWC Jordan Crossing Blvd and Texas Heritage Pkwy in the Jordan Ranch master-planned community (Fulshear/Katy TX 77423).",
+  "ts": "2026-05-17T00:00:00Z"
 }

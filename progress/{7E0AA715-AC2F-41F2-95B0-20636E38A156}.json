@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "",
+  "business_name": "Lakes of Bella Terra",
   "dba": "",
-  "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed plat record (LAKES OF BELLA TERRA RESERVE, zip 25826 appears incorrect for TX). Lakes of Bella Terra is a residential HOA in Richmond TX; no commercial tenant applicable.",
-  "ts": "2026-05-16T14:00:00Z"
+  "phone": "832-593-7300",
+  "website": "https://lakesofbellaterra.net",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://lakesofbellaterra.net/",
+  "notes": "Lakes of Bella Terra is a master-planned residential community in Richmond TX 77406 (HOA managed by VanMor). Zip 25826 in permit record appears to be a data entry error; actual location is Fort Bend County. This is a residential HOA, not a commercial tenant.",
+  "ts": "2026-05-17T00:00:00Z"
 }

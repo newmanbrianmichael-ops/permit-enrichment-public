@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
+  "business_name": "Circle Oak",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "FortBend-Proposed subdivision plat record (CIRCLE OAK, 77469). No commercial tenant or building identifiable; proposed residential/land subdivision.",
-  "ts": "2026-05-16T14:00:00Z"
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
+  "confidence": "medium",
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Johnson Development mixed-use project at US 59/I-69 and FM 762 in Richmond TX. Confirmed tenants include H-E-B at 23500 Circle Oak Pkwy (832) 595-5337, The Ryon (348-unit apartments), and Kelsey Seybold 3-story medical clinic. Plat covers the larger development area.",
+  "ts": "2026-05-17T00:00:00Z"
 }
