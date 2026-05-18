@@ -5,8 +5,8 @@
   "phone": "",
   "website": "",
   "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "Convenience store buildout (c-store) at 6506 Wilcrest Dr Suite A; prior match indicates Wilcrest NN Store LLC as landlord/tenant entity - not independently confirmed via web search.",
-  "ts": "2026-05-11T02:30:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.yelp.com/biz/wilcrest-prime-houston",
+  "notes": "Wilcrest NN Store LLC is the permit applicant entity for a 5,000 SF c-store buildout at 6506 Wilcrest Dr Suite A; no direct phone or website found for the operating entity.",
+  "ts": "2026-05-18T00:00:00Z"
 }

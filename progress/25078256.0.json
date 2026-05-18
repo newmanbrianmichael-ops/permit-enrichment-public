@@ -3,10 +3,10 @@
   "business_name": "Mann Eye Institute",
   "dba": "Mann Eye Center, P.A.",
   "phone": "713-580-2500",
-  "website": "https://www.manneye.com",
+  "website": "https://www.manneye.com/",
   "industry_guess": "Medical / Clinical",
-  "confidence": "medium",
-  "source_url": "https://www.manneye.com/locations-directions/houston-location/",
-  "notes": "Prior match confirmed: Mann Eye Institute at 5115 Fannin St, ophthalmology/LASIK/cataract practice. Permit is for Floor 9 surgical office remodel; Suite 1000 is their known address - likely multi-floor expansion.",
-  "ts": "2026-05-11T02:30:00Z"
+  "confidence": "high",
+  "source_url": "https://www.yelp.com/biz/mann-eye-institute-houston-office-houston",
+  "notes": "Mann Eye Institute confirmed at 5115 Fannin St Houston TX 77004; surgical office remodel permit consistent with LASIK and cataract surgery practice.",
+  "ts": "2026-05-18T00:00:00Z"
 }

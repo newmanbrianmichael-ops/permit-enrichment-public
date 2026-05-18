@@ -5,8 +5,8 @@
   "phone": "",
   "website": "",
   "industry_guess": "Medical / Clinical",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "New 43,599 SF clinic building at 7529 Little York Rd; no specific tenant identified - several unrelated medical clinics operate nearby on Little York.",
-  "ts": "2026-05-11T02:30:00Z"
+  "confidence": "low",
+  "source_url": "https://www.centerwellprimarycare.com/en/texas/houston/centerwell-little-york",
+  "notes": "New 43,599 SF clinic building at 7529 Little York Rd; no named tenant confirmed at that exact address from search results.",
+  "ts": "2026-05-18T00:00:00Z"
 }

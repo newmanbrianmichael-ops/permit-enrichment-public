@@ -5,8 +5,8 @@
   "phone": "",
   "website": "",
   "industry_guess": "Warehouse / Industrial",
-  "confidence": "none",
-  "source_url": "https://www.commercialcafe.com/commercial-property/us/tx/houston/southwest-business-center/",
-  "notes": "Southwest Business Center, 10925 Kinghurst Dr Suite C; 5,000 SF spec office buildout with no confirmed tenant. Same complex as Suite D permit 25083480.",
-  "ts": "2026-05-11T02:30:00Z"
+  "confidence": "low",
+  "source_url": "https://www.cbre.com/properties/properties-for-lease/industrial/details/US-SMPL-170975/kinghurst-campus-10925-kinghurst-drive-houston-tx-77099",
+  "notes": "Same building as 25083480 at 10925 Kinghurst St (Southwest Business Center); Suite C spec office/warehouse buildout with no named tenant identified.",
+  "ts": "2026-05-18T00:00:00Z"
 }

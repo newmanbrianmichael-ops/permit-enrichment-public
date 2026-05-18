@@ -5,8 +5,8 @@
   "phone": "",
   "website": "",
   "industry_guess": "Office",
-  "confidence": "low",
-  "source_url": "https://www.loopnet.com/Listing/7150-Old-Katy-Rd-Houston-TX/15315399/",
-  "notes": "CORE Office Interiors identified at 7150 Old Katy Rd via Waze listing; office interiors/furniture dealer. Suite 200 match not independently confirmed - phone not found.",
-  "ts": "2026-05-11T02:30:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.waze.com/live-map/directions/us/tx/houston/core-office-interiors?to=place.ChIJ2-iEB8fGQIYRlDvgZr1ytBo",
+  "notes": "CORE Office Interiors (commercial furniture and interiors) found at 7150 Old Katy Rd Houston via Waze listing; Suite 200 buildout consistent with this tenant.",
+  "ts": "2026-05-18T00:00:00Z"
 }

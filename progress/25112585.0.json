@@ -1,12 +1,12 @@
 {
   "permit_id": "25112585.0",
-  "business_name": "",
+  "business_name": "Clifford Chance US LLP",
   "dba": "",
-  "phone": "",
-  "website": "",
+  "phone": "713-821-2800",
+  "website": "https://www.cliffordchance.com/people_and_places/offices/houston.html",
   "industry_guess": "Office",
-  "confidence": "low",
+  "confidence": "high",
   "source_url": "https://www.cliffordchance.com/people_and_places/offices/houston.html",
-  "notes": "Texas Tower, 845 Texas Ave; prior matches include Clifford Chance US LLP (Suite 2700, 713-821-2800), Rice Brothers LLC, and Squarepoint Energy Trading. Suite 3500 (fl 35) buildout tenant not confirmed.",
-  "ts": "2026-05-11T02:30:00Z"
+  "notes": "Clifford Chance US LLP (international law firm) confirmed at 845 Texas Ave (Texas Tower) Houston; permit prior-match aligns with office buildout at Suite 3500.",
+  "ts": "2026-05-18T00:00:00Z"
 }

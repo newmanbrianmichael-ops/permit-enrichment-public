@@ -1,12 +1,12 @@
 {
   "permit_id": "25109917.0",
-  "business_name": "",
+  "business_name": "Memorial Hermann Medical Plaza",
   "dba": "",
   "phone": "713-796-6400",
-  "website": "",
+  "website": "https://memorialhermann.org/",
   "industry_guess": "Medical / Clinical",
-  "confidence": "low",
-  "source_url": "https://www.6400fannin.com/",
-  "notes": "Memorial Hermann Medical Plaza; 30-story medical office tower at the Texas Medical Center gateway. Multiple UT Physicians and specialty clinics in building; specific remodel tenant not identified.",
-  "ts": "2026-05-11T02:30:00Z"
+  "confidence": "high",
+  "source_url": "https://www.yelp.com/biz/memorial-hermann-medical-plaza-houston",
+  "notes": "6400 Fannin St is Memorial Hermann Medical Plaza in the Texas Medical Center; multiple UT Physicians and Memorial Hermann clinical tenants occupy the building.",
+  "ts": "2026-05-18T00:00:00Z"
 }
