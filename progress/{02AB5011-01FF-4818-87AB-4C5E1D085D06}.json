@@ -1,12 +1,12 @@
 {
   "permit_id": "{02AB5011-01FF-4818-87AB-4C5E1D085D06}",
-  "business_name": "",
+  "business_name": "The Stables on the Brazos",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "THE STABLES ON THE BRAZOS is a residential/equestrian subdivision in zip 77441 (Fulshear TX area); FortBend-Proposed plat record. No commercial tenant to enrich.",
-  "ts": "2026-05-18T18:45:00Z"
+  "website": "https://thestablesonthebrazos.com/",
+  "industry_guess": "Hotel / Hospitality",
+  "confidence": "high",
+  "source_url": "https://thestablesonthebrazos.com/",
+  "notes": "The Stables on the Brazos is an all-inclusive wedding and events venue at 2955 Bowser Road, Fulshear TX 77441 (Fort Bend County). TDLR project TABS2023019101 shows addition to existing building, $1.5M cost, start June 2023 completion July 2025. Listed in Central Fort Bend Chamber directory.",
+  "ts": "2026-05-18T08:10:00Z"
 }

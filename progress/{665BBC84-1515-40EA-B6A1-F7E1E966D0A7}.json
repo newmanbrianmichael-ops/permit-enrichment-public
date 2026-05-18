@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "West End",
+  "business_name": "Park at West Aliana Trace",
   "dba": "",
   "phone": "",
-  "website": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
+  "website": "",
   "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
-  "notes": "West End Apartments (Greystar managed) at 10510 W Aliana Trace Dr, Richmond TX 77407; 335 units, built 2023. Exact match to permit name 'PARK AT WEST ALIANA TRACE' not confirmed but address area aligns.",
-  "ts": "2026-05-18T00:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://coveringkaty.com/news/fort-bend/62m-apartment-project-coming-to-the-grand-at/",
+  "notes": "Apartment development on 11 acres at West Aliana Trace Drive and Fairbairn Way, Richmond TX 77407, developed by NewQuest Residential, designed by Humphreys & Partners. Part of the Aliana master-planned community. $62M project, construction start late 2023, completion June 2025. Related completed property: West End at 10510 W Aliana Trace Dr.",
+  "ts": "2026-05-18T08:10:00Z"
 }

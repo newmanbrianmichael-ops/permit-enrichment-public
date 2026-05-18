@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
+  "business_name": "Circle Oak II Apartments",
   "dba": "",
   "phone": "",
   "website": "",
   "industry_guess": "Multifamily",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "CIRCLE OAK is a residential subdivision name in zip 77469 (Richmond TX area); FortBend-Proposed source with ~1.5M sqft plat. No commercial tenant to enrich.",
-  "ts": "2026-05-18T18:45:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
+  "notes": "Circle Oak II Apartments: 336-unit for-rent apartment with 6,000 SF clubhouse at 4435 FM 762 Road, Richmond TX 77469. Property owner listed as George Foundation. TDLR registered Feb 2026. Matches subdivision name and zip.",
+  "ts": "2026-05-18T08:10:00Z"
 }

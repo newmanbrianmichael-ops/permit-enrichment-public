@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "",
+  "business_name": "Plaza at Jordan Ranch",
   "dba": "",
   "phone": "",
-  "website": "",
+  "website": "https://www.johnsondevelopment.com/katy-tx/commercial_jordan_ranch",
   "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "https://www.loopnet.com/Listing/Jordan-Ranch-Blvd-Fulshear-TX/35097790/",
-  "notes": "JORDAN RANCH PLAZA in 77423; LoopNet shows proposed retail development 'The Bend in Jordan Ranch' (~55K sf multi-building) at Jordan Ranch Blvd, Fulshear TX 77423; no specific named tenant for Jordan Ranch Plaza confirmed.",
-  "ts": "2026-05-18T00:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://myneighborhoodnews.com/two-new-shopping-centers-coming-to-fulshear-adding-nearly-50000-square-feet-of-retail-space",
+  "notes": "Jordan Ranch Plaza / Plaza at Jordan Ranch: 29,687 SF retail center at 2008 & 2014 Texas Heritage Pkwy, Fulshear TX 77423, part of Johnson Development's Jordan Ranch master-planned community. Groundbreaking March 2025, completion September 2025. Pad sites available. Adjacent to proposed H-E-B site.",
+  "ts": "2026-05-18T08:10:00Z"
 }
