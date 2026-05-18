@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "D.R. Horton",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.drhorton.com",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://jome.com/community/tx/3426-tamarron-d-r-horton-by-d-r-horton-3506-elk-horn-court-katy-tx-77494",
-  "notes": "VIC at Tamarron West is a proposed residential subdivision in the 77423 zip code near Brookshire/Katy TX. Search results confirm D.R. Horton is the primary homebuilder in the Tamarron master-planned community, though this specific section name was not confirmed.",
-  "ts": "2026-05-17T21:12:37Z"
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "VIC AT TAMARRON WEST in 77423 appears to be a proposed subdivision; Tamarron area has active commercial pads (Shops at Tamarron on Tamarron Pkwy, Jordan Ranch Blvd retail) but no specific tenant found for this permit.",
+  "ts": "2026-05-18T00:00:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "The Retail Connection",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
+  "website": "",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
-  "notes": "Jordan Ranch Plaza is a proposed retail center in Brookshire/Fulshear TX 77423, brokered by The Retail Connection and positioned near a planned H-E-B anchor. The development targets neighborhood retail, QSR, medical office, and banking tenants.",
-  "ts": "2026-05-17T21:12:37Z"
+  "confidence": "low",
+  "source_url": "https://www.loopnet.com/Listing/Jordan-Ranch-Blvd-Fulshear-TX/35097790/",
+  "notes": "JORDAN RANCH PLAZA in 77423; LoopNet shows proposed retail development 'The Bend in Jordan Ranch' (~55K sf multi-building) at Jordan Ranch Blvd, Fulshear TX 77423; no specific named tenant for Jordan Ranch Plaza confirmed.",
+  "ts": "2026-05-18T00:00:00Z"
 }
