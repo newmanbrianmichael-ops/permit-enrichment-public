@@ -1,12 +1,12 @@
 {
   "permit_id": "{EB254F79-E69A-4BBC-A679-E9FC6A545996}",
-  "business_name": "River Forest Ranch",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://public.destinyhosted.com/rosendocs/2026/PLAN/20260121_1703/14321_1_-_PP_River_Forest_Ranch_-_11x17.pdf",
-  "industry_guess": "Other",
-  "confidence": "low",
-  "source_url": "https://public.destinyhosted.com/rosendocs/2026/PLAN/20260121_1703/14321_1_-_PP_River_Forest_Ranch_-_11x17.pdf",
-  "notes": "Planning document for River Forest Ranch found in Rosenberg (Fort Bend County) records dated Jan 2026. References River Forest Ltd, a Texas limited partnership, with Fort Bend County filing 2021119634. Zip 77471 is Rosenberg TX. Likely a residential subdivision plat; developer entity and land use not confirmed.",
-  "ts": "2026-05-18T08:10:00Z"
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No specific results found for 'River Forest Ranch' in zip 77471 (Rosenberg area). Related residential subdivisions exist nearby (Wenzel Ranch, Riverside Ranch) but no tenant or business identified for this named development.",
+  "ts": "2026-05-18T00:00:00Z"
 }

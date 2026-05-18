@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Lakes of Bella Terra",
+  "business_name": "Lakes of Bella Terra HOA / Ryko Development",
   "dba": "",
   "phone": "",
   "website": "https://lakesofbellaterra.net/",
   "industry_guess": "Multifamily",
   "confidence": "medium",
-  "source_url": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
-  "notes": "Lakes of Bella Terra is a 725-acre master-planned community in Richmond TX developed by Ryko Development, located at Highway 99 and Westpark Tollway. Note: zip 25826 in permit appears to be a data entry error (25826 is a WV zip); likely intended zip is 77406 (Richmond TX). Community includes 1,669 homes. RESERVE suffix suggests a plat phase within the larger community.",
-  "ts": "2026-05-18T08:10:00Z"
+  "source_url": "https://lakesofbellaterra.net/",
+  "notes": "Lakes of Bella Terra is a 725-acre master-planned residential community in Richmond TX (Fort Bend County), developed by Ryko Development with builders including Perry Homes and K. Hovnanian. 'Reserve' section is an extension of the existing Lakes of Bella Terra subdivision.",
+  "ts": "2026-05-18T00:00:00Z"
 }
