@@ -1,12 +1,12 @@
 {
   "permit_id": "sl-OCCU-2026-00068",
-  "business_name": "Sweetwater Professional Centre",
+  "business_name": "",
   "dba": "",
-  "phone": "(281) 242-8414",
+  "phone": "",
   "website": "",
   "industry_guess": "Medical / Clinical",
-  "confidence": "high",
+  "confidence": "medium",
   "source_url": "https://www.loopnet.com/Listing/4660-Sweetwater-Blvd-Sugar-Land-TX/4103388/",
-  "notes": "4660 Sweetwater Blvd is a 34,430 sq ft Class B medical office building known as Sweetwater Professional Centre, owned by Sugar Land Medical Properties LP per the permit description. Anchored by rheumatology, dentistry, primary care, and pediatrics tenants.",
-  "ts": "2026-05-16T00:00:00Z"
+  "notes": "Sugar Land Medical Properties LP is the new owner/landlord, not the tenant; 4660 Sweetwater Blvd is Sweetwater Professional Centre, a 34k SF medical office building with multiple clinical tenants including rheumatology, dentistry, and primary care. Actual tenant name not identified from permit.",
+  "ts": "2026-05-18T18:45:00Z"
 }

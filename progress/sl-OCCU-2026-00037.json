@@ -3,10 +3,10 @@
   "business_name": "My Flooring America",
   "dba": "",
   "phone": "(281) 208-4949",
-  "website": "",
+  "website": "https://www.yellowpages.com/sugar-land-tx/mip/my-flooring-america-462066130",
   "industry_guess": "Retail",
   "confidence": "medium",
   "source_url": "https://www.yellowpages.com/sugar-land-tx/mip/my-flooring-america-462066130",
-  "notes": "Same property as sl-OCCU-2026-00036 (3337 SH 6, Sugar Land) with alternate zip 77478. Two permits at the same address likely reflect separate ownership-update filings for different parcels or suites.",
-  "ts": "2026-05-16T00:00:00Z"
+  "notes": "Duplicate ownership-update permit (filed 2 days apart) for same address 3337 SH 6; My Flooring America confirmed at this address via Yellow Pages. Tenant appears unchanged.",
+  "ts": "2026-05-18T18:45:00Z"
 }

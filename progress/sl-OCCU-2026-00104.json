@@ -3,10 +3,10 @@
   "business_name": "UniUni",
   "dba": "",
   "phone": "",
-  "website": "https://www.uniuni.com",
+  "website": "https://www.uniuni.com/",
   "industry_guess": "Warehouse / Industrial",
   "confidence": "high",
-  "source_url": "https://www.tenantbase.com/us/building/79497",
-  "notes": "Permit description explicitly names UniUni as the last-mile delivery tenant at 12900 Airport Blvd, Sugar Land, TX. TenantBase and LoopNet confirm the address as a premier industrial/logistics building. No direct phone number found in public sources.",
-  "ts": "2026-05-16T00:00:00Z"
+  "source_url": "https://www.uniuni.com/shipping-last-mile-delivery-services/",
+  "notes": "Permit description explicitly names UniUni as tenant doing last-mile delivery from 12900 Airport, Sugar Land; UniUni is a confirmed last-mile delivery carrier with US warehouse network. No tenant improvements noted.",
+  "ts": "2026-05-18T18:45:00Z"
 }
