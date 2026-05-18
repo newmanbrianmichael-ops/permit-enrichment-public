@@ -1,0 +1,12 @@
+{
+  "permit_id": "OCCU-2026-00021",
+  "business_name": "Universal Bakery and Snacks",
+  "dba": "",
+  "phone": "",
+  "website": "www.universalbakeryandsnacks.com",
+  "industry_guess": "Retail — Restaurant/Bar",
+  "confidence": "medium",
+  "source_url": "https://www.yelp.com/biz/universal-bakery-and-snacks-sugar-land",
+  "notes": "Universal Bakery and Snacks (Indian desserts/snacks cafe) was located at 11929 University Blvd Ste 1G, Sugar Land, matching the address and description; Yelp marks it as closed as of Feb 2026, so confidence is medium as tenant status is uncertain.",
+  "ts": "2026-05-18T00:00:00Z"
+}
