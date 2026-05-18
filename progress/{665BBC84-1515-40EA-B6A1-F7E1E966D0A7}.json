@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "",
+  "business_name": "West End",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Park at West Aliana Trace (77407) is a proposed residential subdivision plat in Fort Bend County; no commercial tenant to identify.",
-  "ts": "2026-04-13T03:50:28.802204+00:00"
+  "website": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
+  "industry_guess": "Multifamily",
+  "confidence": "high",
+  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
+  "notes": "Park at West Aliana Trace corresponds to West End, a luxury apartment community at 10510 W Aliana Trace Dr, Richmond TX 77407, within the Aliana master-planned community offering 1-2 bedroom units.",
+  "ts": "2026-05-18T00:00:00Z"
 }
