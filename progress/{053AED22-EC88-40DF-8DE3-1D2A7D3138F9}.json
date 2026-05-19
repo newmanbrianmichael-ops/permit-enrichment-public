@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "H-E-B Richmond Market",
+  "business_name": "",
   "dba": "",
-  "phone": "(832) 595-5337",
-  "website": "https://www.heb.com/heb-store/US/tx/richmond/richmond-market-h-e-b-727",
-  "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Second permit for Circle Oak development in 77469. H-E-B at 23500 Circle Oak Pkwy is the confirmed anchor tenant. This parcel may relate to additional outparcels or phases within the same development.",
-  "ts": "2026-05-19T00:00:00Z"
+  "phone": "",
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Second Circle Oak permit in zip 77469; no distinct tenant identified beyond the broader Johnson Development Circle Oak project.",
+  "ts": "2026-05-19T22:25:30Z"
 }

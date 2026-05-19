@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Zip 25826 is a West Virginia code and is likely a data entry error on this Fort Bend TX permit. Lakes of Bella Terra is a known Richmond TX residential community; the Reserve suffix indicates a proposed sub-section with no commercial tenant.",
-  "ts": "2026-05-19T00:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
+  "notes": "Lakes of Bella Terra is a 725-acre master-planned residential community in Richmond TX by Ryko Development; permit zip 25826 appears incorrect (likely 77406). No specific commercial tenant found.",
+  "ts": "2026-05-19T22:25:30Z"
 }
