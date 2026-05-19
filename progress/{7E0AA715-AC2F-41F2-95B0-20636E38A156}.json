@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "https://www.har.com/lakes-of-bella-terra/masterplan_90",
-  "notes": "Proposed subdivision plat within Lakes of Bella Terra master-planned community in Richmond TX (zip 25826 appears to be a data error; community is in Fort Bend County). Existing residential HOA community of 1669 homes. No commercial tenant.",
-  "ts": "2026-05-19T00:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "",
+  "notes": "Lakes of Bella Terra Reserve proposed plat; zip code 25826 in queue data appears to be a data error (WV zip); likely 77406 Richmond TX area based on development name.",
+  "ts": "2026-05-19T06:30:00Z"
 }
