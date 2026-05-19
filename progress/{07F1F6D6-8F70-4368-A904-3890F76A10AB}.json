@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Retail",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Fort Bend proposed development - Mini Truck Stop, ZIP 77461 (Rosenberg/Needville TX area). Name strongly suggests a fuel/convenience retail use. Search returned only general Texas truck stop directories and Fort Bend county planning references; no specific Mini Truck Stop business or owner identified in this ZIP. Likely a proposed small fuel stop or convenience store.",
+  "industry_guess": "Retail — Restaurant/Bar",
+  "confidence": "low",
+  "source_url": "https://truckmap.com/places/needville-tx-usa/truck-stop",
+  "notes": "Fort Bend proposed development Mini Truck Stop in Needville TX 77461. Description strongly implies a fuel/convenience stop for truckers. No specific named business found in search results. Classified as Retail (convenience/fuel) as closest match.",
   "ts": "2026-05-19T03:15:00Z"
 }
