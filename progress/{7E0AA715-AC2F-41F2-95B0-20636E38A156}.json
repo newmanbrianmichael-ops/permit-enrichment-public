@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://lakesofbellaterra.net/",
-  "notes": "Fort Bend proposed development Lakes of Bella Terra Reserve. ZIP 25826 appears to be a data entry error (WV ZIP); likely should be 77406 Richmond TX. Lakes of Bella Terra is a master-planned residential community (~1,669 homes) in Richmond at Hwy 99 and Westpark Tollway. No commercial tenant identified.",
-  "ts": "2026-05-19T03:15:00Z"
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "https://www.har.com/lakes-of-bella-terra/masterplan_90",
+  "notes": "Proposed subdivision plat within Lakes of Bella Terra master-planned community in Richmond TX (zip 25826 appears to be a data error; community is in Fort Bend County). Existing residential HOA community of 1669 homes. No commercial tenant.",
+  "ts": "2026-05-19T00:00:00Z"
 }

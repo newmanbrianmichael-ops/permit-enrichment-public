@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Retail — Restaurant/Bar",
-  "confidence": "low",
-  "source_url": "https://truckmap.com/places/needville-tx-usa/truck-stop",
-  "notes": "Fort Bend proposed development Mini Truck Stop in Needville TX 77461. Description strongly implies a fuel/convenience stop for truckers. No specific named business found in search results. Classified as Retail (convenience/fuel) as closest match.",
-  "ts": "2026-05-19T03:15:00Z"
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "Commercial-sounding name in Needville TX 77461. Search returned only generic truck stop directories; no specific business named MINI TRUCK STOP found in Fort Bend County. Cannot confirm active business.",
+  "ts": "2026-05-19T00:00:00Z"
 }

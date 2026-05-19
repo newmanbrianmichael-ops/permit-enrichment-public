@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
+  "industry_guess": "",
   "confidence": "none",
-  "source_url": "https://www.har.com/richmond/realestate/for_sale?property_class_id=3",
-  "notes": "Fort Bend proposed subdivision Richmond Estates Acres in Richmond TX 77406. Search returned general residential land listings; no specific subdivision or commercial tenant found.",
-  "ts": "2026-05-19T03:15:00Z"
+  "source_url": "",
+  "notes": "Proposed residential subdivision plat in Richmond TX 77406. No specific match found for RICHMOND ESTATES ACRES in search results.",
+  "ts": "2026-05-19T00:00:00Z"
 }
