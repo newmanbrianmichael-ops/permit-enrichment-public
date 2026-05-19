@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
+  "business_name": "Circle Oak (Johnson Development mixed-use)",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "Circle Oak proposed plat in Fort Bend County TX, zip 77469 Richmond TX area; no identifiable commercial tenant found.",
-  "ts": "2026-05-19T06:30:00Z"
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
+  "confidence": "medium",
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Circle Oak is a large mixed-use development by Johnson Development in Richmond TX 77469 featuring an H-E-B, Kelsey Seybold medical clinic, and multifamily units. Permit likely covers a proposed land plat within this master development area.",
+  "ts": "2026-05-19T10:00:00Z"
 }
