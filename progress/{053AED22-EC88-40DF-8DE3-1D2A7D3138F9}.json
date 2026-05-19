@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "Circle Oak II Apartments",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Multifamily",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Retail",
   "confidence": "low",
-  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "Possible match: Circle Oak II Apartments ($2M new construction) at 4435 FM 762 Rd, Richmond TX 77469, part of Johnson Development Circle Oak mixed-use. Cannot confirm from permit data alone.",
-  "ts": "2026-05-19T19:30:00Z"
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Second proposed parcel in Circle Oak development, Richmond TX 77469, by Johnson Development. Mixed-use area with H-E-B, multifamily (The Ryon), and Kelsey Seybold clinic nearby. No specific commercial tenant identified for this parcel.",
+  "ts": "2026-05-19T03:15:00Z"
 }

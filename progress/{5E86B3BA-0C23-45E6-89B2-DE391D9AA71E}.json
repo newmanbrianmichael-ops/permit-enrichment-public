@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "Jordan Ranch Shopping Plaza",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "",
+  "website": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.commercialcafe.com/commercial-property/us/tx/brookshire/jordan-ranch-shopping-plaza-1/",
-  "notes": "Jordan Ranch Shopping Plaza at 30643 Kingsland Blvd, Brookshire TX 77423; multi-tenant retail with known tenants Chipotle, National Urgent Care, Take5 Oil Change, Fifth Third Bank. Lead tenant not identified.",
-  "ts": "2026-05-19T19:30:00Z"
+  "confidence": "low",
+  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
+  "notes": "Fort Bend proposed commercial - Jordan Ranch Plaza, ZIP 77423 (Fulshear/Katy TX). Search found Plaza at Jordan Ranch (The Retail Connection) and Jordan Ranch retail corridor at NEC Texas Heritage Pkwy & Jordan Crossing Blvd. Known tenants at nearby Jordan Ranch retail: Chipotle (leased), National Urgent Care, Take5 Oil Change, car wash, Fifth Third Bank (in negotiations), with a 121,000 SF H-E-B planned nearby. No tenants confirmed for this specific plaza parcel.",
+  "ts": "2026-05-19T03:15:00Z"
 }

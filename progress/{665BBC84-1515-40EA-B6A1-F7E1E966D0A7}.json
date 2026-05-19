@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "West End",
+  "business_name": "",
   "dba": "",
-  "phone": "(281) 377-9519",
-  "website": "https://westendrichmond.com",
+  "phone": "",
+  "website": "https://westendrichmond.com/",
   "industry_guess": "Multifamily",
   "confidence": "low",
   "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
-  "notes": "Adjacent community 'West End' (335-unit apartment complex, built 2023) found at 10510 W Aliana Trace Dr, Richmond TX 77407, managed by Greystar. Permit name does not match exactly; may be same or adjacent parcel.",
-  "ts": "2026-05-19T19:30:00Z"
+  "notes": "Fort Bend proposed development - Park at West Aliana Trace, ZIP 77407 (Richmond TX). Search found 'West End' apartments at 10510 W Aliana Trace Dr, Richmond TX 77407, a 335-unit 4-story luxury apartment community built 2023, managed by Greystar. This permit may represent an adjacent proposed multifamily phase along the same Aliana Trace corridor. No commercial tenant identified.",
+  "ts": "2026-05-19T03:15:00Z"
 }
