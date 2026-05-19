@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "Park at West Aliana Trace Apartments",
+  "business_name": "West End",
   "dba": "",
-  "phone": "",
-  "website": "https://coveringkaty.com/news/fort-bend/62m-apartment-project-coming-to-the-grand-at/",
+  "phone": "(281) 377-9519",
+  "website": "https://westendrichmond.com",
   "industry_guess": "Multifamily",
-  "confidence": "high",
-  "source_url": "https://coveringkaty.com/news/fort-bend/62m-apartment-project-coming-to-the-grand-at/",
-  "notes": "A $62M, 294-unit multifamily development at West Aliana Trace Drive and Fairbairn Way, Richmond TX 77407, directly across from Malala Yousafzai Elementary in the Grand at Aliana area. Features studios and 1-3BR units with resort amenities.",
-  "ts": "2026-05-18T00:00:00Z"
+  "confidence": "low",
+  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
+  "notes": "Adjacent community 'West End' (335-unit apartment complex, built 2023) found at 10510 W Aliana Trace Dr, Richmond TX 77407, managed by Greystar. Permit name does not match exactly; may be same or adjacent parcel.",
+  "ts": "2026-05-19T19:30:00Z"
 }

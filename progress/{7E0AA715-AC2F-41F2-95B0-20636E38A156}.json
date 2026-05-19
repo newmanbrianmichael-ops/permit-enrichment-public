@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Lakes of Bella Terra HOA / Ryko Development",
+  "business_name": "Lakes of Bella Terra Community Association",
   "dba": "",
-  "phone": "",
-  "website": "https://lakesofbellaterra.net/",
+  "phone": "(281) 342-9920",
+  "website": "https://lakesofbellaterra.net",
   "industry_guess": "Multifamily",
   "confidence": "medium",
   "source_url": "https://lakesofbellaterra.net/",
-  "notes": "Lakes of Bella Terra is a 725-acre master-planned residential community in Richmond TX (Fort Bend County), developed by Ryko Development with builders including Perry Homes and K. Hovnanian. 'Reserve' section is an extension of the existing Lakes of Bella Terra subdivision.",
-  "ts": "2026-05-18T00:00:00Z"
+  "notes": "Lakes of Bella Terra is a master-planned residential community near Richmond TX; HOA managed by FirstService Residential at (281) 342-9920. Zip 25826 in record appears erroneous (WV zip; actual community is ~77406).",
+  "ts": "2026-05-19T19:30:00Z"
 }

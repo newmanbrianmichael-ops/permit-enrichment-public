@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "D.R. Horton / Tamarron West",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://quiddity.com/projects/tamarron-west-development/",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "Tamarron West is a ~1,300-acre master-planned residential development in Fulshear TX 77423 built out by D.R. Horton (~3,800 lots total). 'VIC' likely refers to a vacant parcel or volume permit; no specific commercial tenant identified.",
-  "ts": "2026-05-18T00:00:00Z"
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "",
+  "ts": "2026-05-19T19:30:00Z"
 }
