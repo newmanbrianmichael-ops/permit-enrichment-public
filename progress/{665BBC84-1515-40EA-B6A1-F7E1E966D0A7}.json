@@ -1,12 +1,12 @@
 {
   "permit_id": "{665BBC84-1515-40EA-B6A1-F7E1E966D0A7}",
-  "business_name": "",
+  "business_name": "West End Apartments",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "https://www.loopnet.com/Listing/Aliana-Trace-Dr-Richmond-TX/32771582/",
-  "notes": "Park at West Aliana Trace is located in the Aliana master-planned community, Richmond TX 77407; approved for auto-related and other commercial uses. No specific tenant identified.",
-  "ts": "2026-05-19T22:25:30Z"
+  "website": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.houstonmls.com/property-search/detail/70/50139802/10510-west-aliana-trace-dr-richmond-tx-77407/",
+  "notes": "West Aliana Trace Dr in Richmond TX 77407 is home to the West End luxury apartment community within the Aliana master-planned community. Park at West Aliana Trace likely refers to this or an adjacent multifamily development.",
+  "ts": "2026-05-20T03:16:59Z"
 }

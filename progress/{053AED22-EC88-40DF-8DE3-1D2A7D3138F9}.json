@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
+  "business_name": "Johnson Development",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Second Circle Oak permit in zip 77469; no distinct tenant identified beyond the broader Johnson Development Circle Oak project.",
-  "ts": "2026-05-19T22:25:30Z"
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
+  "confidence": "low",
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Second Circle Oak proposed record in Richmond TX 77469; same Johnson Development commercial land project. No specific tenant identified for this parcel.",
+  "ts": "2026-05-20T03:16:59Z"
 }

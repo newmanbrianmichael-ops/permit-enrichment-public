@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
+  "business_name": "Johnson Development",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Multifamily",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
   "confidence": "low",
   "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Circle Oak mixed-use development in Richmond TX by Johnson Development; Circle Oak II Apartments = 336-unit complex at 4435 FM 762 Rd. No specific commercial tenant identified.",
-  "ts": "2026-05-19T22:25:30Z"
+  "notes": "Circle Oak is a Johnson Development commercial land project in Richmond TX 77469, bordered by US-59/I-69 and FM 762. FortBend-Proposed record with 1.49M sqft; no specific tenant or business identified.",
+  "ts": "2026-05-20T03:16:59Z"
 }
