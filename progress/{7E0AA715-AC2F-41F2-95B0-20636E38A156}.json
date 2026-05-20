@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
+  "industry_guess": "Multifamily",
   "confidence": "low",
-  "source_url": "",
-  "notes": "Proposed plat in Lakes of Bella Terra residential community by Ryko Development, Richmond TX. Zip 25826 appears to be a data entry error (should be ~77406 or similar Fort Bend zip).",
-  "ts": "2026-05-20T18:00:00Z"
+  "source_url": "https://www.lakesofbellaterra.com/",
+  "notes": "Fort Bend proposed plat - Lakes of Bella Terra Reserve; zip 25826 in queue appears incorrect (WV zip); Lakes of Bella Terra is 725-acre residential community in Richmond TX (77406); 1,669 single-family homes; managed by VanMor Properties; no commercial tenant",
+  "ts": "2026-05-20T12:00:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "",
+  "business_name": "Jordan Ranch Shopping Plaza",
   "dba": "",
-  "phone": "",
-  "website": "",
+  "phone": "713-350-2780",
+  "website": "https://www.bpirealty.com/properties/jordan-ranch-shopping-plaza/",
   "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "Jordan Ranch Plaza commercial area in Fulshear/Katy; includes Jordan Ranch Market (H-E-B anchor, 162k sqft), Shops at Jordan Ranch, Shops at Jordan Crossing. Multi-tenant retail; no single business match.",
-  "ts": "2026-05-20T18:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.commercialsearch.com/commercial-property/us/tx/brookshire/jordan-ranch-shopping-plaza-1/",
+  "notes": "Jordan Ranch Shopping Plaza - 17,047 SF retail at 30643 Kingsland Blvd, Brookshire TX 77423; The Bend in Jordan Ranch future development adds ~55,000 SF mixed-use; contact BPI Realty (713) 350-2780",
+  "ts": "2026-05-20T12:00:00Z"
 }

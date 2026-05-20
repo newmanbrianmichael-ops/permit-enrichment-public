@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "",
+  "business_name": "Circle Oak Apartments",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Other",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "Large mixed-use development by Johnson Development; includes H-E-B Richmond Market, Kelsey Seybold medical clinic, The Ryon (348 units), Circle Oak II Apts (336 units). Plat permit for ~1.5M sqft development.",
-  "ts": "2026-05-20T18:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
+  "notes": "Fort Bend proposed plat; Circle Oak II Apartments - 336-unit apartment complex with 6,000 SF clubhouse at 4435 FM 762 Rd, Richmond TX 77469; owner is George Foundation; $2M TDLR project 2026",
+  "ts": "2026-05-20T12:00:00Z"
 }

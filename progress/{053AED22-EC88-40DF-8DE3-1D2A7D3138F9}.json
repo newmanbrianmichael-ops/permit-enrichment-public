@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
+  "business_name": "Circle Oak Apartments",
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Other",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "Same Circle Oak development as permit C695FEA3; Johnson Development mixed-use in Richmond TX.",
-  "ts": "2026-05-20T18:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
+  "notes": "Fort Bend proposed plat; same Circle Oak II Apartments development - 336-unit complex at 4435 FM 762 Rd, Richmond TX 77469; second plat record for same project",
+  "ts": "2026-05-20T12:00:00Z"
 }
