@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "Quiddity / City of Fulshear",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://quiddity.com/projects/tamarron-west-development/",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "Tamarron West is a 1,300-acre master-planned residential community in Fulshear TX 77423, engineered by Quiddity with water infrastructure for D.R. Horton. VIC likely refers to the visitor/information center for the development.",
-  "ts": "2026-05-20T03:16:59Z"
+  "website": "",
+  "industry_guess": "Other",
+  "confidence": "medium",
+  "source_url": "https://www.har.com/tamarron/masterplan_107",
+  "notes": "Vic at Tamarron West is a section within Tamarron master-planned community in Katy/Brookshire 77423, a large single-family residential development with 4,000+ planned homes.",
+  "ts": "2026-05-20T00:00:00Z"
 }

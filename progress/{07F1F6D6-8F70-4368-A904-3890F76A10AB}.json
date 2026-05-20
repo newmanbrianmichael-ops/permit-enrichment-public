@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "No specific business found for Mini Truck Stop in Needville TX 77461. Name implies a fuel/convenience retail use but no specific operator was identified in search results.",
-  "ts": "2026-05-20T03:16:59Z"
+  "industry_guess": "Automotive",
+  "confidence": "low",
+  "source_url": "https://www.findtruckservice.com/Semi/Truck+Stops/All+Truck+Stops/TX/Rosenberg/",
+  "notes": "Mini Truck Stop in 77461 Rosenberg TX not specifically identified in search. Name suggests an automotive/fuel stop; nearest confirmed facilities are Rosenberg Travel Plaza and Cottonwood T/C.",
+  "ts": "2026-05-20T00:00:00Z"
 }

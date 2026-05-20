@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Ryko Development",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://lakesofbellaterra.net/",
-  "industry_guess": "Multifamily",
+  "website": "",
+  "industry_guess": "Other",
   "confidence": "medium",
-  "source_url": "https://lakesofbellaterra.net/",
-  "notes": "Lakes of Bella Terra is a 725-acre master-planned community in Richmond TX managed by Ryko Development, with 1,669 homes across three interconnected subdivisions. Zip code 25826 in permit record appears to be a data error; community is in Fort Bend County.",
-  "ts": "2026-05-20T03:16:59Z"
+  "source_url": "https://www.houstonproperties.com/houston-neighborhoods/richmond/lakes-of-bella-terra",
+  "notes": "Lakes of Bella Terra is an established 725-acre master-planned residential community in Richmond TX (likely 77406). Zip 25826 in record appears to be a data error.",
+  "ts": "2026-05-20T00:00:00Z"
 }
