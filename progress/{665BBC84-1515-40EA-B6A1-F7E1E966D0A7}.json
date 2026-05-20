@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.apartments.com/west-end-richmond-tx/38tq96d/",
-  "notes": "West Aliana Trace in Richmond 77407 is within the Aliana master-planned community. West End Apartments (10510 W Aliana Trace Dr) is a known multifamily development in this area; 'Park at West Aliana Trace' likely refers to a new residential section or apartment community.",
-  "ts": "2026-05-20T00:00:00Z"
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://www.commercialcafe.com/commercial-property/us/tx/richmond/neq-of-w-airport-blvd-w-aliana-trace-dr/",
+  "notes": "Commercial retail development at W. Airport Blvd and W. Aliana Trace Dr in Richmond TX 77407 adjacent to the Aliana master-planned community; multi-tenant retail with endcap restaurant spaces.",
+  "ts": "2026-05-20T12:00:00Z"
 }

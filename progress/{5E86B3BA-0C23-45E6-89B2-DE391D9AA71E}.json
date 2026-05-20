@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "",
+  "business_name": "Jordan Ranch Plaza",
   "dba": "",
   "phone": "",
   "website": "",
   "industry_guess": "Retail",
-  "confidence": "low",
-  "source_url": "https://www.jordanranchtexas.com/commercial/",
-  "notes": "Jordan Ranch in Fulshear 77423 has active commercial/retail development including The Bend at Jordan Ranch and a planned H-E-B-anchored Jordan Ranch Market. Jordan Ranch Plaza likely refers to a retail pad or center within this master-planned community.",
-  "ts": "2026-05-20T00:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.bpirealty.com/properties/jordan-ranch-shopping-plaza/",
+  "notes": "Jordan Ranch Plaza is a commercial retail and restaurant center in Brookshire TX 77423 within the Jordan Ranch master-planned community; multi-tenant retail and pad sites for restaurant and retail use.",
+  "ts": "2026-05-20T12:00:00Z"
 }
