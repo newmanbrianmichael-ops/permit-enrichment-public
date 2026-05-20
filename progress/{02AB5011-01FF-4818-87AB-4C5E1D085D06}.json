@@ -2,11 +2,11 @@
   "permit_id": "{02AB5011-01FF-4818-87AB-4C5E1D085D06}",
   "business_name": "The Stables on the Brazos",
   "dba": "",
-  "phone": "(281) 640-2060",
-  "website": "https://thestablesonthebrazos.com",
-  "industry_guess": "Other",
-  "confidence": "high",
-  "source_url": "https://thestablesonthebrazos.com/",
-  "notes": "Luxury event and wedding venue at 2955 Bowser Rd, Fulshear TX 77441; TDLR construction additions completed July 2025; full-service venue for weddings, corporate events, quinceanaras",
-  "ts": "2026-05-20T12:00:00Z"
+  "phone": "",
+  "website": "https://thestablesonthebrazos.com/",
+  "industry_guess": "Hotel / Hospitality",
+  "confidence": "medium",
+  "source_url": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2023019101",
+  "notes": "THE STABLES ON THE BRAZOS -- zip 77441 (Fulshear, Fort Bend County). Located at 2955 Bowser Road, Fulshear TX 77441. TDLR records show additions to existing building with project start June 2023 and completion July 2025, estimated cost $1.5M. Venue is a wedding and events facility offering catering, bar, coordination, and decor. Industry classified as Hotel/Hospitality (event venue).",
+  "ts": "2026-05-20T00:00:00Z"
 }

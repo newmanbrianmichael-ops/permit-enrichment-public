@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Unknown",
-  "confidence": "none",
-  "source_url": "",
-  "notes": "Fort Bend proposed plat - Park at West Aliana Trace; zip 77407 is Richmond TX; West End Apartments (10510 W Aliana Trace Dr) is nearby but specific named development not confirmed; likely residential subdivision",
-  "ts": "2026-05-20T12:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "medium",
+  "source_url": "https://coveringkaty.com/news/fort-bend/62m-apartment-project-coming-to-the-grand-at/",
+  "notes": "PARK AT WEST ALIANA TRACE -- zip 77407 (Richmond/unincorporated Fort Bend County). Search results confirm a $62M, 294-unit multifamily apartment project at West Aliana Trace Drive and Fairbairn Way in the Grand at Aliana area. The development includes 11 two- and three-story residential buildings plus clubhouse, designed by Humphreys & Partners of Dallas. Specific developer/owner for this permit record not confirmed by name but the multifamily project at this address is well documented.",
+  "ts": "2026-05-20T00:00:00Z"
 }

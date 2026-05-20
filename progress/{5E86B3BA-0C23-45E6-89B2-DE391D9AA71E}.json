@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "Jordan Ranch Shopping Plaza",
+  "business_name": "Johnson Development",
   "dba": "",
-  "phone": "713-350-2780",
-  "website": "https://www.bpirealty.com/properties/jordan-ranch-shopping-plaza/",
+  "phone": "",
+  "website": "https://www.johnsondevelopment.com/katy-tx/commercial_jordan_ranch",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.commercialsearch.com/commercial-property/us/tx/brookshire/jordan-ranch-shopping-plaza-1/",
-  "notes": "Jordan Ranch Shopping Plaza - 17,047 SF retail at 30643 Kingsland Blvd, Brookshire TX 77423; The Bend in Jordan Ranch future development adds ~55,000 SF mixed-use; contact BPI Realty (713) 350-2780",
-  "ts": "2026-05-20T12:00:00Z"
+  "confidence": "high",
+  "source_url": "https://communityimpact.com/houston/katy-north/dining/2024/07/23/big-city-wings-pure-barre-among-tenants-opening-in-jordan-ranch-commercial-developments/",
+  "notes": "JORDAN RANCH PLAZA -- zip 77423 (Fulshear, Fort Bend County). Jordan Ranch is a 1,350-acre master-planned community by Johnson Development. Jordan Ranch Plaza is a confirmed commercial retail center; tenants include Big City Wings and Pure Barre per Community Impact reporting (July 2024). Johnson Development is confirmed master developer. Plaza at Jordan Ranch (29,687 sf) broke ground March 2025, targeted completion September 2025. Nearby Jordan Ranch Market anchored by H-E-B (Regency Centers developer, 162,000 sf).",
+  "ts": "2026-05-20T00:00:00Z"
 }

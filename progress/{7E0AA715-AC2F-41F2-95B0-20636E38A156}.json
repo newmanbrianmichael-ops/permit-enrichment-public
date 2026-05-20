@@ -3,10 +3,10 @@
   "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "",
+  "website": "https://lakesofbellaterra.net/",
   "industry_guess": "Multifamily",
-  "confidence": "low",
-  "source_url": "https://www.lakesofbellaterra.com/",
-  "notes": "Fort Bend proposed plat - Lakes of Bella Terra Reserve; zip 25826 in queue appears incorrect (WV zip); Lakes of Bella Terra is 725-acre residential community in Richmond TX (77406); 1,669 single-family homes; managed by VanMor Properties; no commercial tenant",
-  "ts": "2026-05-20T12:00:00Z"
+  "confidence": "medium",
+  "source_url": "https://www.har.com/lakes-of-bella-terra/masterplan_90",
+  "notes": "LAKES OF BELLA TERRA RESERVE -- zip 25826 (zip code appears to be a data anomaly; Lakes of Bella Terra is located in Richmond TX, Fort Bend County near SH 99 and Westpark Tollway). Lakes of Bella Terra is a master-planned residential community managed under Fort Bend County MUD 133. 'Reserve' suffix suggests a subdivision plat section within the larger community. Builders include Ashton Woods, Chesmar, K. Hovnanian, Perry Homes, and Sitterle Homes.",
+  "ts": "2026-05-20T00:00:00Z"
 }

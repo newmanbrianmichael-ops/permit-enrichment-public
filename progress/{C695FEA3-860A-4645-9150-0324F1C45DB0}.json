@@ -1,12 +1,12 @@
 {
   "permit_id": "{C695FEA3-860A-4645-9150-0324F1C45DB0}",
-  "business_name": "Circle Oak Apartments",
+  "business_name": "Johnson Development",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Multifamily",
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Other",
   "confidence": "medium",
-  "source_url": "https://www.zabalist.com/projects/TABS2026012534",
-  "notes": "Fort Bend proposed plat; Circle Oak II Apartments - 336-unit apartment complex with 6,000 SF clubhouse at 4435 FM 762 Rd, Richmond TX 77469; owner is George Foundation; $2M TDLR project 2026",
-  "ts": "2026-05-20T12:00:00Z"
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Circle Oak is a mixed-use commercial development in Richmond TX (zip 77469) by Johnson Development, located at US 59/I-69 and FM 762. Tenants include H-E-B Richmond Market (100,000 sf), Kelsey Seybold medical clinic, and The Ryon (348 multifamily units). This permit record (sqft ~1.49M) likely covers a plat or infrastructure phase of the broader Circle Oak development tract.",
+  "ts": "2026-05-20T00:00:00Z"
 }
