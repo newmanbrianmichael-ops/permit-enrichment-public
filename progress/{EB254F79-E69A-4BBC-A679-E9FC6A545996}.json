@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
+  "industry_guess": "Unknown",
   "confidence": "none",
   "source_url": "",
-  "notes": "Search returned only residential property listings on River Ranch Drive in Rosenberg TX 77471; no commercial tenant or development identified for River Forest Ranch.",
-  "ts": "2026-05-20T12:00:00Z"
+  "notes": "'River Forest Ranch' in 77471 (Rosenberg TX) returned no direct business match. Nearby 'River Ranch' residential addresses surfaced but none match this specific plat name; no tenant identified.",
+  "ts": "2026-05-20T00:00:00Z"
 }

@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
+  "industry_guess": "Multifamily",
+  "confidence": "low",
   "source_url": "",
-  "notes": "No commercial tenant found for Richmond Estates Acres in zip 77406; search returned only generic Richmond TX real estate listings.",
-  "ts": "2026-05-20T12:00:00Z"
+  "notes": "'Richmond Estates Acres' in zip 77406 (Richmond/Rosenberg area) appears to be a platted residential acreage subdivision. No commercial tenant or business match found; industry guess of Multifamily is tentative based on subdivision naming convention.",
+  "ts": "2026-05-20T00:00:00Z"
 }

@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
+  "industry_guess": "Warehouse / Industrial",
+  "confidence": "low",
   "source_url": "",
-  "notes": "No confirming business details found for Mini Truck Stop in zip 77461 (Rosenberg/Needville TX area); no matching commercial tenant identified.",
-  "ts": "2026-05-20T12:00:00Z"
+  "notes": "'Mini Truck Stop' in 77461 (Rosenberg TX area) returned only generic Texas truck-stop directories with no match to this specific plat name. Industry guess of Warehouse/Industrial reflects likely fuel/trucking use; no operator or phone found.",
+  "ts": "2026-05-20T00:00:00Z"
 }

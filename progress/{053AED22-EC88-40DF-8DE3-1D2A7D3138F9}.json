@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "",
+  "business_name": "Circle Oak",
   "dba": "",
   "phone": "",
-  "website": "",
-  "industry_guess": "Other",
-  "confidence": "low",
-  "source_url": "",
-  "notes": "Second permit within the Circle Oak mixed-use development in Richmond TX 77469 by Johnson Development; multiple commercial uses confirmed but no single business identifiable as permit holder.",
-  "ts": "2026-05-20T12:00:00Z"
+  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "industry_guess": "Retail",
+  "confidence": "medium",
+  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
+  "notes": "Duplicate address/description to permit C695FEA3; Circle Oak is a Johnson Development mixed-use commercial tract at approx. 23500 Circle Oak Pkwy, Richmond TX 77469. Likely a second parcel within the same master development; specific tenant unknown.",
+  "ts": "2026-05-20T00:00:00Z"
 }

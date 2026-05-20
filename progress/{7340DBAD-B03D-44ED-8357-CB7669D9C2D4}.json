@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
+  "industry_guess": "Unknown",
   "confidence": "none",
   "source_url": "",
-  "notes": "No commercial tenant found for Homer Pettit Place in zip 77417 (Beasley TX area); likely a residential subdivision plat with no identifiable commercial business.",
-  "ts": "2026-05-20T12:00:00Z"
+  "notes": "'Homer Pettit Place' in zip 77417 (Beasley TX area) returned no usable business or tenant results. Likely a platted subdivision or private land tract with no identifiable commercial occupant.",
+  "ts": "2026-05-20T00:00:00Z"
 }
