@@ -1,12 +1,12 @@
 {
   "permit_id": "{A7FCE4CB-1628-4A7F-9D32-D0F7E4F9B2D4}",
-  "business_name": "D.R. Horton",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://quiddity.com/projects/tamarron-west-development/",
+  "website": "",
   "industry_guess": "Multifamily",
-  "confidence": "medium",
+  "confidence": "low",
   "source_url": "https://quiddity.com/projects/tamarron-west-development/",
-  "notes": "VIC AT TAMARRON WEST -- zip 77423 (Fulshear/Katy area, Fort Bend County). Tamarron West is part of the larger Tamarron master-planned community spanning ~1,300 acres in Fulshear. D.R. Horton is the primary developer/builder per search results. 'VIC' likely refers to a village or section plat within Tamarron West. Residential subdivision.",
+  "notes": "Tamarron West in Fulshear 77423 is a large master-planned residential community (~3,800 lots) by D.R. Horton; 'VIC AT TAMARRON WEST' likely refers to a section or village within that development. No specific commercial tenant found.",
   "ts": "2026-05-20T00:00:00Z"
 }

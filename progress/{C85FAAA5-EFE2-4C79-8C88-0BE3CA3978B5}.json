@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Other",
-  "confidence": "low",
-  "source_url": "https://www.fbcad.org/subdivisions/",
-  "notes": "RICHMOND ESTATES ACRES -- zip 77406 (Richmond TX area). No specific developer or tenant identified in public search results. Name pattern suggests a residential acreage subdivision plat filed with Fort Bend County. Confidence low -- could not confirm developer.",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No results found for 'Richmond Estates Acres' in 77406. Address appears to be a subdivision plat name rather than a street address; no commercial tenant or business identified.",
   "ts": "2026-05-20T00:00:00Z"
 }

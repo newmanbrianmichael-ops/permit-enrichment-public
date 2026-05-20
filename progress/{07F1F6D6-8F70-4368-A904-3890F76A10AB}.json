@@ -1,12 +1,12 @@
 {
   "permit_id": "{07F1F6D6-8F70-4368-A904-3890F76A10AB}",
-  "business_name": "Thind Nirmal S",
+  "business_name": "",
   "dba": "",
-  "phone": "(832) 942-0029",
-  "website": "https://www.zabalist.com/projects/TABS2025014616",
-  "industry_guess": "Automotive",
-  "confidence": "high",
-  "source_url": "https://www.zabalist.com/projects/TABS2025014616",
-  "notes": "MINI TRUCK STOP -- zip 77461 (Needville, Fort Bend County). TDLR/Zabalist project record identifies this as a Gas Station C-Store / Mini Truck Stop & Fast Food Building at 3730 School Street, Needville TX, valued at $800K new construction (TABS2025014616). Owner/contact: Thind Nirmal S, 1244 Emil Circle Suite 904, Sugar Land TX 77478, phone (832) 942-0029. Industry classified as Automotive (fuel/truck stop with convenience store).",
+  "phone": "",
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "",
+  "notes": "No matching business found for 'Mini Truck Stop' in 77461 (Needville area). Name suggests a fuel/convenience stop but no operator or tenant could be confirmed.",
   "ts": "2026-05-20T00:00:00Z"
 }

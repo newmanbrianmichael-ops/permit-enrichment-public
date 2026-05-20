@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "Johnson Development",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.johnsondevelopment.com/katy-tx/commercial_jordan_ranch",
+  "website": "",
   "industry_guess": "Retail",
-  "confidence": "high",
-  "source_url": "https://communityimpact.com/houston/katy-north/dining/2024/07/23/big-city-wings-pure-barre-among-tenants-opening-in-jordan-ranch-commercial-developments/",
-  "notes": "JORDAN RANCH PLAZA -- zip 77423 (Fulshear, Fort Bend County). Jordan Ranch is a 1,350-acre master-planned community by Johnson Development. Jordan Ranch Plaza is a confirmed commercial retail center; tenants include Big City Wings and Pure Barre per Community Impact reporting (July 2024). Johnson Development is confirmed master developer. Plaza at Jordan Ranch (29,687 sf) broke ground March 2025, targeted completion September 2025. Nearby Jordan Ranch Market anchored by H-E-B (Regency Centers developer, 162,000 sf).",
+  "confidence": "low",
+  "source_url": "https://www.jordanranchtexas.com/commercial/",
+  "notes": "Jordan Ranch in Fulshear 77423 has active commercial/retail development including The Bend at Jordan Ranch and a planned H-E-B-anchored Jordan Ranch Market. Jordan Ranch Plaza likely refers to a retail pad or center within this master-planned community.",
   "ts": "2026-05-20T00:00:00Z"
 }

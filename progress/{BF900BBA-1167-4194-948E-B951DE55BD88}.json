@@ -1,12 +1,12 @@
 {
   "permit_id": "{BF900BBA-1167-4194-948E-B951DE55BD88}",
-  "business_name": "Johnson Development",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.johnsondevelopment.com/commercial_jordan_ranch",
+  "website": "",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://myneighborhoodnews.com/two-new-shopping-centers-coming-to-fulshear-adding-nearly-50000-square-feet-of-retail-space",
-  "notes": "FULSHEAR VILLAGE MART -- zip 77441 (Fulshear, Fort Bend County). Name strongly suggests a retail/commercial center. Johnson Development is the master developer for the Fulshear/Jordan Ranch area. Search results confirm two new shopping centers being added in Fulshear including Plaza at Jordan Ranch (29,687 sf) and Jordan Ranch Market (H-E-B anchor, 162,000 sf by Regency Centers). Fulshear Village Mart is likely a similar neighborhood retail center in Fulshear; specific developer not confirmed but Johnson Development is the area master developer. Confidence medium.",
+  "confidence": "low",
+  "source_url": "https://fulshearcentral.com/retail/",
+  "notes": "Fulshear Village Mart 77441 likely refers to a proposed retail/commercial center in Fulshear. Several new retail centers are under development in Fulshear but no exact match found for this name; no specific tenant identified.",
   "ts": "2026-05-20T00:00:00Z"
 }
