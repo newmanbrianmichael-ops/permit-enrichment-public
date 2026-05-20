@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Other",
-  "confidence": "medium",
-  "source_url": "https://www.houstonproperties.com/houston-neighborhoods/richmond/lakes-of-bella-terra",
-  "notes": "Lakes of Bella Terra is an established 725-acre master-planned residential community in Richmond TX (likely 77406). Zip 25826 in record appears to be a data error.",
-  "ts": "2026-05-20T00:00:00Z"
+  "industry_guess": "",
+  "confidence": "low",
+  "source_url": "",
+  "notes": "Proposed plat in Lakes of Bella Terra residential community by Ryko Development, Richmond TX. Zip 25826 appears to be a data entry error (should be ~77406 or similar Fort Bend zip).",
+  "ts": "2026-05-20T18:00:00Z"
 }

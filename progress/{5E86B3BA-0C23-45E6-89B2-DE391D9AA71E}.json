@@ -3,10 +3,10 @@
   "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.jordanranchtexas.com/commercial/",
+  "website": "",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
-  "notes": "Plaza at Jordan Ranch is a confirmed retail commercial development in Jordan Ranch master-planned community, Katy TX 77423. Tenants include Big City Wings and Pure Barre; H-E-B anchored corner proposed.",
-  "ts": "2026-05-20T00:00:00Z"
+  "confidence": "low",
+  "source_url": "",
+  "notes": "Jordan Ranch Plaza commercial area in Fulshear/Katy; includes Jordan Ranch Market (H-E-B anchor, 162k sqft), Shops at Jordan Ranch, Shops at Jordan Crossing. Multi-tenant retail; no single business match.",
+  "ts": "2026-05-20T18:00:00Z"
 }
