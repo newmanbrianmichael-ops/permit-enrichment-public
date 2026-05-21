@@ -3,10 +3,10 @@
   "business_name": "UniUni",
   "dba": "",
   "phone": "",
-  "website": "https://www.uniuni.com/",
+  "website": "https://www.uniuni.com",
   "industry_guess": "Warehouse / Industrial",
   "confidence": "high",
-  "source_url": "https://www.uniuni.com/shipping-last-mile-delivery-services/",
-  "notes": "Permit description explicitly names UniUni as tenant doing last-mile delivery from 12900 Airport, Sugar Land; UniUni is a confirmed last-mile delivery carrier with US warehouse network. No tenant improvements noted.",
-  "ts": "2026-05-18T18:45:00Z"
+  "source_url": "https://www.loopnet.com/Listing/12900-W-Airport-Blvd-Sugar-Land-TX/37938209/",
+  "notes": "Tenant named in permit description as last-mile delivery warehouse. UniUni confirmed at 12900 W Airport Blvd per LoopNet; 70,000 sq ft of 299,758 sq ft building. No local phone listed.",
+  "ts": "2026-05-21T00:00:00Z"
 }

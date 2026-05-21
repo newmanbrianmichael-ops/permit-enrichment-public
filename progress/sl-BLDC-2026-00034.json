@@ -2,11 +2,11 @@
   "permit_id": "sl-BLDC-2026-00034",
   "business_name": "Providence Presbyterian Church",
   "dba": "",
-  "phone": "(281) 980-2522",
-  "website": "https://www.providencepresbyterian.org/",
+  "phone": "281-980-2522",
+  "website": "https://www.providencepresbyterian.org",
   "industry_guess": "Church / Religious",
   "confidence": "high",
-  "source_url": "https://www.providencepresbyterian.org/",
-  "notes": "Named directly in permit as Providence Presbyterian Church; parking lot expansion at 3510 Austin Pkwy, Sugar Land TX 77479.",
-  "ts": "2026-04-20T12:00:00Z"
+  "source_url": "https://www.yelp.com/biz/providence-presbyterian-church-sugar-land",
+  "notes": "Church named in permit description. Parking lot expansion at 3510 Austin Pkwy. Phone and address confirmed from multiple directories including Yelp and Chamber of Commerce.",
+  "ts": "2026-05-21T00:00:00Z"
 }

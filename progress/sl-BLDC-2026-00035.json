@@ -2,11 +2,11 @@
   "permit_id": "sl-BLDC-2026-00035",
   "business_name": "Applied Optoelectronics, Inc.",
   "dba": "AOI",
-  "phone": "(281) 295-1800",
+  "phone": "281-295-1800",
   "website": "https://ao-inc.com",
   "industry_guess": "Warehouse / Industrial",
   "confidence": "high",
-  "source_url": "https://finance.yahoo.com/news/applied-optoelectronics-breaks-ground-planned-120000734.html",
-  "notes": "New 210,000 SF manufacturing facility; groundbreaking Feb 10, 2026; planned occupancy Aug 1, 2026; NASDAQ: AAOI; fiber optic networking products manufacturer.",
-  "ts": "2026-04-13T04:39:29Z"
+  "source_url": "https://ao-inc.com/contact-us/",
+  "notes": "Tenant named in permit description. 150,000 sq ft commercial buildout at 1111 Gillingham; part of AOI's larger manufacturing campus (~210,000 sq ft total). LCC3 Solutions was contractor.",
+  "ts": "2026-05-21T00:00:00Z"
 }

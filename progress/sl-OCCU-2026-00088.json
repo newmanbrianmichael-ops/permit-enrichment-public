@@ -1,12 +1,12 @@
 {
   "permit_id": "sl-OCCU-2026-00088",
-  "business_name": "Sugar Land Interchange Distribution Center",
-  "dba": "",
-  "phone": "",
-  "website": "https://www.loopnet.com/Listing/1111-1113-Gillingham-Ln-Sugar-Land-TX/27994306/",
+  "business_name": "Applied Optoelectronics, Inc.",
+  "dba": "AOI",
+  "phone": "281-295-1800",
+  "website": "https://ao-inc.com",
   "industry_guess": "Warehouse / Industrial",
   "confidence": "medium",
-  "source_url": "https://www.loopnet.com/Listing/1111-1113-Gillingham-Ln-Sugar-Land-TX/27994306/",
-  "notes": "1111-1113 Gillingham Ln is a ~489k SF industrial/distribution center marketed for multi-tenant lease; prior match TX Project Management & Construction not confirmed at this address. Current occupant identity not confirmed from search results.",
-  "ts": "2026-05-18T18:45:00Z"
+  "source_url": "https://finance.yahoo.com/news/applied-optoelectronics-breaks-ground-planned-120000734.html",
+  "notes": "AOI building a 210,000 sq ft manufacturing facility at 1111 Gillingham; expected occupancy ~Aug 2026. TX Project Management was construction manager, not tenant.",
+  "ts": "2026-05-21T00:00:00Z"
 }
