@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Warehouse / Industrial",
+  "industry_guess": "Automotive",
   "confidence": "low",
-  "source_url": "",
-  "notes": "No specific business found for Mini Truck Stop in 77461 TX. Name suggests a fuel/convenience stop or small truck services facility. No direct match found in public sources. Industry guess based on name only.",
-  "ts": "2026-05-21T00:00:00Z"
+  "source_url": "https://www.findtruckservice.com/Semi/Truck+Stops/View+All/TX/Rosenberg/",
+  "notes": "Mini Truck Stop in zip 77461 (Rosenberg TX area). Description is a literal truck stop / fuel station development permit. No specific business name, phone, or address found by this exact name. Classified Automotive as closest fit for truck stop / fuel / C-store use.",
+  "ts": "2026-05-21T18:00:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "{053AED22-EC88-40DF-8DE3-1D2A7D3138F9}",
-  "business_name": "Circle Oak",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://www.johnsondevelopment.com/richmond-tx/commercial_circle_oak",
-  "notes": "Second permit under same Circle Oak development in Richmond TX 77469 by Johnson Development. Same mixed-use commercial node - H-E-B anchor, multifamily, and medical. Likely a subsequent phase or plat.",
-  "ts": "2026-05-21T00:00:00Z"
+  "website": "",
+  "industry_guess": "",
+  "confidence": "none",
+  "source_url": "https://www.har.com/homedetail/0-circle-oak-pkwy-richmond-tx-77469/13517032",
+  "notes": "Circle Oak is a residential subdivision in Richmond TX 77469 (Jane Long area). Second permit record for same subdivision plat. No commercial activity found.",
+  "ts": "2026-05-21T18:00:00Z"
 }
