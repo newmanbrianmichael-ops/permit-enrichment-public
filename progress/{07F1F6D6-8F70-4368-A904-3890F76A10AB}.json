@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "Warehouse / Industrial",
-  "confidence": "low",
+  "industry_guess": "Unknown",
+  "confidence": "none",
   "source_url": "",
-  "notes": "'Mini Truck Stop' in 77461 (Rosenberg TX area) returned only generic Texas truck-stop directories with no match to this specific plat name. Industry guess of Warehouse/Industrial reflects likely fuel/trucking use; no operator or phone found.",
-  "ts": "2026-05-20T00:00:00Z"
+  "notes": "PROPOSED record named Mini Truck Stop in Needville TX 77461; no matching business found in search results. Description suggests a possible small fuel/truck-stop facility not yet built.",
+  "ts": "2026-05-21T00:00:00Z"
 }

@@ -1,12 +1,12 @@
 {
   "permit_id": "{7E0AA715-AC2F-41F2-95B0-20636E38A156}",
-  "business_name": "Lakes of Bella Terra",
+  "business_name": "",
   "dba": "",
-  "phone": "(281) 342-9920",
-  "website": "https://lakesofbellaterra.net",
-  "industry_guess": "Multifamily",
-  "confidence": "medium",
-  "source_url": "https://lakesofbellaterra.net",
-  "notes": "'Lakes of Bella Terra Reserve' matches the Lakes of Bella Terra master-planned community in Richmond TX (actual zip 77406, not 25826 -- possible data entry error). HOA/management phone (281) 342-9920 via FS Residential; this is a residential community, so the permit likely relates to a reserve/platted section rather than a commercial tenant.",
-  "ts": "2026-05-20T00:00:00Z"
+  "phone": "",
+  "website": "",
+  "industry_guess": "Unknown",
+  "confidence": "none",
+  "source_url": "https://lakesofbellaterra.net/",
+  "notes": "Zip code 25826 in queue record does not exist in TX; Lakes of Bella Terra Reserve is likely a reserve tract within the Lakes of Bella Terra community in Richmond TX (correct zip ~77406); PROPOSED residential plat with no commercial tenant.",
+  "ts": "2026-05-21T00:00:00Z"
 }

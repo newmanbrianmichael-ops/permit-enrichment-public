@@ -1,12 +1,12 @@
 {
   "permit_id": "{5E86B3BA-0C23-45E6-89B2-DE391D9AA71E}",
-  "business_name": "Plaza at Jordan Ranch",
+  "business_name": "",
   "dba": "",
   "phone": "",
-  "website": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
+  "website": "",
   "industry_guess": "Retail",
-  "confidence": "medium",
-  "source_url": "https://theretailconnection.net/properties/plaza-at-jordan-ranch-katy-tx/",
-  "notes": "'Jordan Ranch Plaza' in 77423 (Brookshire/Katy area) appears to correspond to Plaza at Jordan Ranch, a retail center at NWC Jordan Crossing Blvd & Texas Heritage Pkwy, Katy TX, brokered by The Retail Connection. No single tenant phone listed; landlord is The Retail Connection.",
-  "ts": "2026-05-20T00:00:00Z"
+  "confidence": "low",
+  "source_url": "https://www.loopnet.com/Listing/Jordan-Ranch-Jordan-Crossing-Blvd-Brookshire-TX/31523874/",
+  "notes": "Jordan Ranch Plaza area in Brookshire/Fulshear TX 77423 has active retail and mixed-use commercial listings; no single named tenant confirmed for the specific PROPOSED Jordan Ranch Plaza plat.",
+  "ts": "2026-05-21T00:00:00Z"
 }
