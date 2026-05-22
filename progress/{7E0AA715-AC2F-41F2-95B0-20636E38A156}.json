@@ -4,9 +4,9 @@
   "dba": "",
   "phone": "",
   "website": "",
-  "industry_guess": "",
-  "confidence": "none",
-  "source_url": "https://lakesofbellaterra.net/amenities",
-  "notes": "Lakes of Bella Terra Reserve. Zip 25826 appears to be a data error (West Virginia zip). Lakes of Bella Terra is a large-scale master-planned residential community in Richmond TX (Fort Bend). The Reserve designation refers to a residential section, not commercial.",
-  "ts": "2026-05-21T18:00:00Z"
+  "industry_guess": "Multifamily",
+  "confidence": "low",
+  "source_url": "https://www.rykodevelopment.com/lakes-of-bella-terra-west",
+  "notes": "FortBend-Proposed plat. ZIP 25826 is a data anomaly; searched Fort Bend County TX. Lakes of Bella Terra is a master-planned residential community by Ryko Development in Richmond TX. The Reserve likely refers to a protected future-phase land area. No commercial tenant found.",
+  "ts": "2026-05-22T00:00:00Z"
 }
